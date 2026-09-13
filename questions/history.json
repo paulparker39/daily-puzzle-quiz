@@ -1,0 +1,1998 @@
+[
+  {
+    "id": "hist_001",
+    "question": "In what year was the Declaration of Independence signed?",
+    "type": "year",
+    "answer": 1776,
+    "note": "It was adopted by the Continental Congress on July 4, 1776."
+  },
+  {
+    "id": "hist_002",
+    "question": "In what year did World War II end?",
+    "type": "year",
+    "answer": 1945,
+    "note": "It ended with Japan's surrender following the atomic bombings."
+  },
+  {
+    "id": "hist_003",
+    "question": "In what year did World War II begin?",
+    "type": "year",
+    "answer": 1939,
+    "note": "It began when Germany invaded Poland."
+  },
+  {
+    "id": "hist_004",
+    "question": "In what year was the United States Constitution signed?",
+    "type": "year",
+    "answer": 1787,
+    "note": "It was signed in Philadelphia at the Constitutional Convention."
+  },
+  {
+    "id": "hist_005",
+    "question": "In what year did the Berlin Wall fall?",
+    "type": "year",
+    "answer": 1989,
+    "note": "Its fall symbolized the coming end of the Cold War."
+  },
+  {
+    "id": "hist_006",
+    "question": "In what year did the American Civil War begin?",
+    "type": "year",
+    "answer": 1861,
+    "note": "It began with the attack on Fort Sumter."
+  },
+  {
+    "id": "hist_007",
+    "question": "In what year did the American Civil War end?",
+    "type": "year",
+    "answer": 1865,
+    "note": "It ended with the Confederate surrender at Appomattox."
+  },
+  {
+    "id": "hist_008",
+    "question": "In what year did Christopher Columbus first reach the Americas?",
+    "type": "year",
+    "answer": 1492,
+    "note": "He landed in the Bahamas while sailing for Spain."
+  },
+  {
+    "id": "hist_009",
+    "question": "In what year was the Magna Carta signed?",
+    "type": "year",
+    "answer": 1215,
+    "note": "It limited the power of the English king and protected certain rights."
+  },
+  {
+    "id": "hist_010",
+    "question": "In what year did the storming of the Bastille take place, marking the start of the French Revolution?",
+    "type": "year",
+    "answer": 1789,
+    "note": "The Bastille was a Paris prison seen as a symbol of royal tyranny."
+  },
+  {
+    "id": "hist_011",
+    "question": "In what year did Japan attack Pearl Harbor?",
+    "type": "year",
+    "answer": 1941,
+    "note": "The attack brought the United States into World War II."
+  },
+  {
+    "id": "hist_012",
+    "question": "In what year did astronauts first land on the moon?",
+    "type": "year",
+    "answer": 1969,
+    "note": "Apollo 11 carried Neil Armstrong and Buzz Aldrin to the lunar surface."
+  },
+  {
+    "id": "hist_013",
+    "question": "In what year did the Titanic sink?",
+    "type": "year",
+    "answer": 1912,
+    "note": "It struck an iceberg on its maiden voyage across the Atlantic."
+  },
+  {
+    "id": "hist_014",
+    "question": "In what year did World War I begin?",
+    "type": "year",
+    "answer": 1914,
+    "note": "It began after the assassination of Archduke Franz Ferdinand."
+  },
+  {
+    "id": "hist_015",
+    "question": "In what year did World War I end?",
+    "type": "year",
+    "answer": 1918,
+    "note": "An armistice was signed on November 11 of that year."
+  },
+  {
+    "id": "hist_016",
+    "question": "In what year did Abraham Lincoln issue the Emancipation Proclamation?",
+    "type": "year",
+    "answer": 1863,
+    "note": "It declared enslaved people in Confederate states to be free."
+  },
+  {
+    "id": "hist_017",
+    "question": "In what year was Abraham Lincoln assassinated?",
+    "type": "year",
+    "answer": 1865,
+    "note": "He was shot by John Wilkes Booth at Ford's Theatre."
+  },
+  {
+    "id": "hist_018",
+    "question": "In what year was Martin Luther King Jr. assassinated?",
+    "type": "year",
+    "answer": 1968,
+    "note": "He was shot in Memphis, Tennessee."
+  },
+  {
+    "id": "hist_019",
+    "question": "In what year was President John F. Kennedy assassinated?",
+    "type": "year",
+    "answer": 1963,
+    "note": "He was shot while riding in a motorcade in Dallas, Texas."
+  },
+  {
+    "id": "hist_020",
+    "question": "In what year was the Berlin Wall built?",
+    "type": "year",
+    "answer": 1961,
+    "note": "East Germany built it to stop citizens from fleeing to the West."
+  },
+  {
+    "id": "hist_021",
+    "question": "In what year did the Soviet Union officially dissolve?",
+    "type": "year",
+    "answer": 1991,
+    "note": "Its collapse ended the Cold War era rivalry with the United States."
+  },
+  {
+    "id": "hist_022",
+    "question": "In what year did India gain independence from Britain?",
+    "type": "year",
+    "answer": 1947,
+    "note": "The subcontinent was also partitioned into India and Pakistan that year."
+  },
+  {
+    "id": "hist_023",
+    "question": "In what year did the United States enter World War I?",
+    "type": "year",
+    "answer": 1917,
+    "note": "It joined the Allied powers against Germany and its allies."
+  },
+  {
+    "id": "hist_024",
+    "question": "In what year did the United States drop the atomic bomb on Hiroshima?",
+    "type": "year",
+    "answer": 1945,
+    "note": "A second bomb was dropped on Nagasaki days later."
+  },
+  {
+    "id": "hist_025",
+    "question": "In what year did the Boston Tea Party take place?",
+    "type": "year",
+    "answer": 1773,
+    "note": "Colonists dumped British tea into Boston Harbor to protest taxes."
+  },
+  {
+    "id": "hist_026",
+    "question": "In what year did the United States complete the Louisiana Purchase?",
+    "type": "year",
+    "answer": 1803,
+    "note": "It roughly doubled the size of the young nation."
+  },
+  {
+    "id": "hist_027",
+    "question": "In what year did the War of 1812 begin?",
+    "type": "year",
+    "answer": 1812,
+    "note": "The United States fought against Britain in this conflict."
+  },
+  {
+    "id": "hist_028",
+    "question": "In what year did Lincoln deliver the Gettysburg Address?",
+    "type": "year",
+    "answer": 1863,
+    "note": "He spoke at the dedication of a military cemetery in Pennsylvania."
+  },
+  {
+    "id": "hist_029",
+    "question": "In what year was the 19th Amendment, granting women the right to vote, ratified?",
+    "type": "year",
+    "answer": 1920,
+    "note": "It was the result of decades of suffragist activism."
+  },
+  {
+    "id": "hist_030",
+    "question": "In what year did the US stock market crash that triggered the Great Depression?",
+    "type": "year",
+    "answer": 1929,
+    "note": "The crash occurred in October and wiped out enormous wealth."
+  },
+  {
+    "id": "hist_031",
+    "question": "In what year did the D-Day invasion of Normandy take place?",
+    "type": "year",
+    "answer": 1944,
+    "note": "Allied forces landed on the beaches of northern France."
+  },
+  {
+    "id": "hist_032",
+    "question": "In what year was the Treaty of Versailles signed?",
+    "type": "year",
+    "answer": 1919,
+    "note": "It formally ended World War I and penalized Germany."
+  },
+  {
+    "id": "hist_033",
+    "question": "In what year did the Russian Revolution bring the Bolsheviks to power?",
+    "type": "year",
+    "answer": 1917,
+    "note": "It led to the eventual founding of the Soviet Union."
+  },
+  {
+    "id": "hist_034",
+    "question": "In what year was the People's Republic of China founded?",
+    "type": "year",
+    "answer": 1949,
+    "note": "Mao Zedong proclaimed its founding after the Chinese Civil War."
+  },
+  {
+    "id": "hist_035",
+    "question": "In what year did the Berlin Airlift begin?",
+    "type": "year",
+    "answer": 1948,
+    "note": "Allied planes flew supplies into blockaded West Berlin."
+  },
+  {
+    "id": "hist_036",
+    "question": "In what year did the Korean War begin?",
+    "type": "year",
+    "answer": 1950,
+    "note": "North Korean forces invaded South Korea that year."
+  },
+  {
+    "id": "hist_037",
+    "question": "In what year did the Vietnam War end with the fall of Saigon?",
+    "type": "year",
+    "answer": 1975,
+    "note": "North Vietnamese forces captured the South's capital."
+  },
+  {
+    "id": "hist_038",
+    "question": "In what year did the Cuban Missile Crisis occur?",
+    "type": "year",
+    "answer": 1962,
+    "note": "The US and USSR came close to nuclear conflict over missiles in Cuba."
+  },
+  {
+    "id": "hist_039",
+    "question": "In what year was the Civil Rights Act signed into law?",
+    "type": "year",
+    "answer": 1964,
+    "note": "It outlawed discrimination based on race, color, religion, sex, or origin."
+  },
+  {
+    "id": "hist_040",
+    "question": "In what year did George Washington become the first US president?",
+    "type": "year",
+    "answer": 1789,
+    "note": "He was inaugurated in New York City."
+  },
+  {
+    "id": "hist_041",
+    "question": "In what year was Abraham Lincoln first elected president?",
+    "type": "year",
+    "answer": 1860,
+    "note": "His election helped trigger the secession of Southern states."
+  },
+  {
+    "id": "hist_042",
+    "question": "In what year did the Western Roman Empire fall?",
+    "type": "year",
+    "answer": 476,
+    "note": "A Germanic chieftain deposed the last Roman emperor in the west."
+  },
+  {
+    "id": "hist_043",
+    "question": "In what year did Alexander Graham Bell patent the telephone?",
+    "type": "year",
+    "answer": 1876,
+    "note": "It transformed long-distance communication."
+  },
+  {
+    "id": "hist_044",
+    "question": "In what year did Martin Luther post his Ninety-Five Theses, starting the Protestant Reformation?",
+    "type": "year",
+    "answer": 1517,
+    "note": "He is said to have nailed them to a church door in Wittenberg."
+  },
+  {
+    "id": "hist_045",
+    "question": "In what year was the Spanish Armada defeated by England?",
+    "type": "year",
+    "answer": 1588,
+    "note": "The defeat weakened Spanish naval power in Europe."
+  },
+  {
+    "id": "hist_046",
+    "question": "In what year did the Pilgrims land at Plymouth aboard the Mayflower?",
+    "type": "year",
+    "answer": 1620,
+    "note": "They established one of the first permanent English colonies in New England."
+  },
+  {
+    "id": "hist_047",
+    "question": "In what year did the French and Indian War end?",
+    "type": "year",
+    "answer": 1763,
+    "note": "It ended with the Treaty of Paris, expanding British territory in North America."
+  },
+  {
+    "id": "hist_048",
+    "question": "In what year did the American Revolutionary War end with the Treaty of Paris?",
+    "type": "year",
+    "answer": 1783,
+    "note": "Britain formally recognized American independence."
+  },
+  {
+    "id": "hist_049",
+    "question": "In what year did the Battle of Hastings take place?",
+    "type": "year",
+    "answer": 1066,
+    "note": "William the Conqueror defeated King Harold II of England."
+  },
+  {
+    "id": "hist_050",
+    "question": "In what year was Napoleon defeated at the Battle of Waterloo?",
+    "type": "year",
+    "answer": 1815,
+    "note": "The defeat ended his final bid to rule France and Europe."
+  },
+  {
+    "id": "hist_051",
+    "question": "In what year did the Suez Canal open?",
+    "type": "year",
+    "answer": 1869,
+    "note": "It connected the Mediterranean and Red Seas, shortening sea trade routes."
+  },
+  {
+    "id": "hist_052",
+    "question": "In what year did the Wright brothers achieve their first powered flight?",
+    "type": "year",
+    "answer": 1903,
+    "note": "It took place at Kitty Hawk, North Carolina."
+  },
+  {
+    "id": "hist_053",
+    "question": "In what year was the ocean liner Lusitania sunk by a German submarine?",
+    "type": "year",
+    "answer": 1915,
+    "note": "The sinking increased American anger toward Germany before WWI."
+  },
+  {
+    "id": "hist_054",
+    "question": "In what year did Adolf Hitler become chancellor of Germany?",
+    "type": "year",
+    "answer": 1933,
+    "note": "He soon transformed the country into a one-party dictatorship."
+  },
+  {
+    "id": "hist_055",
+    "question": "In what year did Kristallnacht occur in Nazi Germany?",
+    "type": "year",
+    "answer": 1938,
+    "note": "Mobs attacked Jewish homes, businesses, and synagogues across Germany."
+  },
+  {
+    "id": "hist_056",
+    "question": "In what year was the United Nations founded?",
+    "type": "year",
+    "answer": 1945,
+    "note": "It was created after World War II to promote international cooperation."
+  },
+  {
+    "id": "hist_057",
+    "question": "In what year was NATO founded?",
+    "type": "year",
+    "answer": 1949,
+    "note": "It was formed as a military alliance among Western nations."
+  },
+  {
+    "id": "hist_058",
+    "question": "In what year did the Marshall Plan begin providing aid to rebuild Europe?",
+    "type": "year",
+    "answer": 1948,
+    "note": "The United States funded reconstruction after World War II."
+  },
+  {
+    "id": "hist_059",
+    "question": "In what year did the Supreme Court decide Brown v. Board of Education?",
+    "type": "year",
+    "answer": 1954,
+    "note": "The ruling declared public school segregation unconstitutional."
+  },
+  {
+    "id": "hist_060",
+    "question": "In what year did the Montgomery Bus Boycott begin?",
+    "type": "year",
+    "answer": 1955,
+    "note": "It started after Rosa Parks was arrested for refusing to give up her seat."
+  },
+  {
+    "id": "hist_061",
+    "question": "In what year did Martin Luther King Jr. deliver his \"I Have a Dream\" speech?",
+    "type": "year",
+    "answer": 1963,
+    "note": "He gave it during the March on Washington."
+  },
+  {
+    "id": "hist_062",
+    "question": "In what year was the Voting Rights Act signed into law?",
+    "type": "year",
+    "answer": 1965,
+    "note": "It banned discriminatory voting practices used to disenfranchise Black voters."
+  },
+  {
+    "id": "hist_063",
+    "question": "In what year did President Nixon resign over the Watergate scandal?",
+    "type": "year",
+    "answer": 1974,
+    "note": "He resigned rather than face likely impeachment."
+  },
+  {
+    "id": "hist_064",
+    "question": "In what year did the US-led coalition launch Operation Desert Storm against Iraq?",
+    "type": "year",
+    "answer": 1991,
+    "note": "The operation drove Iraqi forces out of Kuwait."
+  },
+  {
+    "id": "hist_065",
+    "question": "In what year did the September 11 terrorist attacks occur?",
+    "type": "year",
+    "answer": 2001,
+    "note": "Hijacked planes struck the World Trade Center and the Pentagon."
+  },
+  {
+    "id": "hist_066",
+    "question": "In what year did the Panama Canal open to ship traffic?",
+    "type": "year",
+    "answer": 1914,
+    "note": "It allowed ships to pass between the Atlantic and Pacific Oceans."
+  },
+  {
+    "id": "hist_067",
+    "question": "In what year did the Spanish-American War take place?",
+    "type": "year",
+    "answer": 1898,
+    "note": "The US gained territories including Puerto Rico and the Philippines."
+  },
+  {
+    "id": "hist_068",
+    "question": "In what year did the Great Fire of London occur?",
+    "type": "year",
+    "answer": 1666,
+    "note": "It destroyed much of the medieval city of London."
+  },
+  {
+    "id": "hist_069",
+    "question": "In what year did the Salem witch trials take place?",
+    "type": "year",
+    "answer": 1692,
+    "note": "Dozens of people in Massachusetts were accused of witchcraft."
+  },
+  {
+    "id": "hist_070",
+    "question": "In what year did the Pilgrims celebrate the first Thanksgiving?",
+    "type": "year",
+    "answer": 1621,
+    "note": "It was a harvest feast shared with the Wampanoag people."
+  },
+  {
+    "id": "hist_071",
+    "question": "In what year was the Seneca Falls Convention held?",
+    "type": "year",
+    "answer": 1848,
+    "note": "It was the first women's rights convention in the United States."
+  },
+  {
+    "id": "hist_072",
+    "question": "In what year was the Missouri Compromise passed?",
+    "type": "year",
+    "answer": 1820,
+    "note": "It regulated slavery in the western territories."
+  },
+  {
+    "id": "hist_073",
+    "question": "In what year was the Compromise of 1850 passed?",
+    "type": "year",
+    "answer": 1850,
+    "note": "It attempted to settle disputes over slavery in new territories."
+  },
+  {
+    "id": "hist_074",
+    "question": "In what year did the Supreme Court issue the Dred Scott decision?",
+    "type": "year",
+    "answer": 1857,
+    "note": "It ruled that Black Americans could not be US citizens."
+  },
+  {
+    "id": "hist_075",
+    "question": "In what year was the 13th Amendment, abolishing slavery, ratified?",
+    "type": "year",
+    "answer": 1865,
+    "note": "It formally ended slavery throughout the United States."
+  },
+  {
+    "id": "hist_076",
+    "question": "In what year was the 14th Amendment ratified?",
+    "type": "year",
+    "answer": 1868,
+    "note": "It granted citizenship to all persons born or naturalized in the US."
+  },
+  {
+    "id": "hist_077",
+    "question": "In what year was the 15th Amendment ratified?",
+    "type": "year",
+    "answer": 1870,
+    "note": "It prohibited denying the vote based on race."
+  },
+  {
+    "id": "hist_078",
+    "question": "In what year did Hernan Cortes conquer the Aztec Empire?",
+    "type": "year",
+    "answer": 1521,
+    "note": "His forces captured the Aztec capital of Tenochtitlan."
+  },
+  {
+    "id": "hist_079",
+    "question": "In what year did Constantinople fall to the Ottoman Turks?",
+    "type": "year",
+    "answer": 1453,
+    "note": "The fall marked the end of the Byzantine Empire."
+  },
+  {
+    "id": "hist_080",
+    "question": "In what year was the US Bill of Rights ratified?",
+    "type": "year",
+    "answer": 1791,
+    "note": "It added the first ten amendments to the Constitution."
+  },
+  {
+    "id": "hist_081",
+    "question": "In what year did construction finish on the Erie Canal?",
+    "type": "year",
+    "answer": 1825,
+    "note": "It connected the Great Lakes to the Hudson River and Atlantic trade."
+  },
+  {
+    "id": "hist_082",
+    "question": "In what year did the United States purchase Alaska from Russia?",
+    "type": "year",
+    "answer": 1867,
+    "note": "The deal was mockingly called \"Seward's Folly\" at the time."
+  },
+  {
+    "id": "hist_083",
+    "question": "In what year did Hawaii become a US state?",
+    "type": "year",
+    "answer": 1959,
+    "note": "It became the 50th state admitted to the Union."
+  },
+  {
+    "id": "hist_084",
+    "question": "In what year was the Treaty of Tordesillas signed, dividing new lands between Spain and Portugal?",
+    "type": "year",
+    "answer": 1494,
+    "note": "It set a line to divide territorial claims in the Americas."
+  },
+  {
+    "id": "hist_085",
+    "question": "In what year was Jamestown, the first permanent English colony in America, founded?",
+    "type": "year",
+    "answer": 1607,
+    "note": "It was established in present-day Virginia."
+  },
+  {
+    "id": "hist_086",
+    "question": "In what year did Britain pass the Stamp Act on the American colonies?",
+    "type": "year",
+    "answer": 1765,
+    "note": "It taxed printed materials and angered many colonists."
+  },
+  {
+    "id": "hist_087",
+    "question": "In what year did the British surrender at the Battle of Yorktown?",
+    "type": "year",
+    "answer": 1781,
+    "note": "The surrender effectively ended fighting in the Revolutionary War."
+  },
+  {
+    "id": "hist_088",
+    "question": "In what year did the Black Death first reach Europe?",
+    "type": "year",
+    "answer": 1347,
+    "note": "The plague killed a huge portion of Europe's population."
+  },
+  {
+    "id": "hist_089",
+    "question": "In what year was Charlemagne crowned Holy Roman Emperor?",
+    "type": "year",
+    "answer": 800,
+    "note": "He was crowned by Pope Leo III on Christmas Day."
+  },
+  {
+    "id": "hist_090",
+    "question": "In what year did President Franklin Roosevelt launch the New Deal?",
+    "type": "year",
+    "answer": 1933,
+    "note": "It created programs to help the US recover from the Great Depression."
+  },
+  {
+    "id": "hist_091",
+    "question": "Who was the first President of the United States?",
+    "type": "text",
+    "answer": "George Washington",
+    "acceptableAnswers": [
+      "george washington",
+      "washington"
+    ],
+    "note": "He served two terms and set many precedents for the presidency."
+  },
+  {
+    "id": "hist_092",
+    "question": "Who was the primary author of the Declaration of Independence?",
+    "type": "text",
+    "answer": "Thomas Jefferson",
+    "acceptableAnswers": [
+      "thomas jefferson",
+      "jefferson"
+    ],
+    "note": "He later became the third US president."
+  },
+  {
+    "id": "hist_093",
+    "question": "Who was the British monarch during the American Revolution?",
+    "type": "text",
+    "answer": "King George III",
+    "acceptableAnswers": [
+      "king george iii",
+      "george iii",
+      "george the third"
+    ],
+    "note": "He ruled Britain during the loss of its American colonies."
+  },
+  {
+    "id": "hist_094",
+    "question": "What document, signed in 1215, limited the power of the English king?",
+    "type": "text",
+    "answer": "Magna Carta",
+    "acceptableAnswers": [
+      "magna carta"
+    ],
+    "note": "It is considered an early step toward constitutional government."
+  },
+  {
+    "id": "hist_095",
+    "question": "Who was the Roman general who famously crossed the Rubicon River, leading to civil war?",
+    "type": "text",
+    "answer": "Julius Caesar",
+    "acceptableAnswers": [
+      "julius caesar",
+      "caesar"
+    ],
+    "note": "The phrase \"crossing the Rubicon\" now means passing a point of no return."
+  },
+  {
+    "id": "hist_096",
+    "question": "What was the name of the ship that carried the Pilgrims to America in 1620?",
+    "type": "text",
+    "answer": "Mayflower",
+    "acceptableAnswers": [
+      "mayflower",
+      "the mayflower"
+    ],
+    "note": "It landed near present-day Plymouth, Massachusetts."
+  },
+  {
+    "id": "hist_097",
+    "question": "Who was the leader of Nazi Germany during World War II?",
+    "type": "text",
+    "answer": "Adolf Hitler",
+    "acceptableAnswers": [
+      "adolf hitler",
+      "hitler"
+    ],
+    "note": "He led Germany from 1933 until his death in 1945."
+  },
+  {
+    "id": "hist_098",
+    "question": "Who was the British Prime Minister who led the country through most of World War II?",
+    "type": "text",
+    "answer": "Winston Churchill",
+    "acceptableAnswers": [
+      "winston churchill",
+      "churchill"
+    ],
+    "note": "He is remembered for his inspiring wartime speeches."
+  },
+  {
+    "id": "hist_099",
+    "question": "Who was the US President during the Great Depression and most of World War II?",
+    "type": "text",
+    "answer": "Franklin D. Roosevelt",
+    "acceptableAnswers": [
+      "franklin d. roosevelt",
+      "franklin roosevelt",
+      "fdr"
+    ],
+    "note": "He was elected to four terms, more than any other US president."
+  },
+  {
+    "id": "hist_100",
+    "question": "Who was assassinated at Ford's Theatre in 1865?",
+    "type": "text",
+    "answer": "Abraham Lincoln",
+    "acceptableAnswers": [
+      "abraham lincoln",
+      "lincoln"
+    ],
+    "note": "He was shot by John Wilkes Booth just days after the Civil War ended."
+  },
+  {
+    "id": "hist_101",
+    "question": "Who delivered the famous \"I Have a Dream\" speech in 1963?",
+    "type": "text",
+    "answer": "Martin Luther King Jr.",
+    "acceptableAnswers": [
+      "martin luther king jr.",
+      "martin luther king",
+      "mlk"
+    ],
+    "note": "He gave the speech during the March on Washington."
+  },
+  {
+    "id": "hist_102",
+    "question": "What ship struck an iceberg and sank on its maiden voyage in 1912?",
+    "type": "text",
+    "answer": "Titanic",
+    "acceptableAnswers": [
+      "titanic",
+      "the titanic"
+    ],
+    "note": "Over 1,500 people died in the disaster."
+  },
+  {
+    "id": "hist_103",
+    "question": "Who was the first person to walk on the moon?",
+    "type": "text",
+    "answer": "Neil Armstrong",
+    "acceptableAnswers": [
+      "neil armstrong",
+      "armstrong"
+    ],
+    "note": "He stepped onto the lunar surface during the Apollo 11 mission."
+  },
+  {
+    "id": "hist_104",
+    "question": "Who was the Egyptian queen allied with Julius Caesar and later Mark Antony?",
+    "type": "text",
+    "answer": "Cleopatra",
+    "acceptableAnswers": [
+      "cleopatra"
+    ],
+    "note": "She was the last active ruler of the Ptolemaic Kingdom of Egypt."
+  },
+  {
+    "id": "hist_105",
+    "question": "Who was the explorer, sailing for Spain, credited with reaching the Americas in 1492?",
+    "type": "text",
+    "answer": "Christopher Columbus",
+    "acceptableAnswers": [
+      "christopher columbus",
+      "columbus"
+    ],
+    "note": "His voyages opened the way for European colonization of the Americas."
+  },
+  {
+    "id": "hist_106",
+    "question": "Who was the Soviet dictator who led the USSR through most of World War II?",
+    "type": "text",
+    "answer": "Joseph Stalin",
+    "acceptableAnswers": [
+      "joseph stalin",
+      "stalin"
+    ],
+    "note": "He ruled the Soviet Union with an iron grip for nearly three decades."
+  },
+  {
+    "id": "hist_107",
+    "question": "Who was the Communist leader who founded the People's Republic of China in 1949?",
+    "type": "text",
+    "answer": "Mao Zedong",
+    "acceptableAnswers": [
+      "mao zedong",
+      "mao"
+    ],
+    "note": "He led China until his death in 1976."
+  },
+  {
+    "id": "hist_108",
+    "question": "What treaty officially ended World War I?",
+    "type": "text",
+    "answer": "Treaty of Versailles",
+    "acceptableAnswers": [
+      "treaty of versailles",
+      "versailles treaty"
+    ],
+    "note": "It placed heavy blame and reparations on Germany."
+  },
+  {
+    "id": "hist_109",
+    "question": "What treaty formally ended the Revolutionary War between Britain and the United States?",
+    "type": "text",
+    "answer": "Treaty of Paris",
+    "acceptableAnswers": [
+      "treaty of paris"
+    ],
+    "note": "Signed in 1783, it recognized American independence."
+  },
+  {
+    "id": "hist_110",
+    "question": "Who was the French military leader who crowned himself emperor in 1804?",
+    "type": "text",
+    "answer": "Napoleon Bonaparte",
+    "acceptableAnswers": [
+      "napoleon bonaparte",
+      "napoleon"
+    ],
+    "note": "He later suffered a final defeat at the Battle of Waterloo."
+  },
+  {
+    "id": "hist_111",
+    "question": "What Pennsylvania battle is considered the turning point of the American Civil War?",
+    "type": "text",
+    "answer": "Battle of Gettysburg",
+    "acceptableAnswers": [
+      "battle of gettysburg",
+      "gettysburg"
+    ],
+    "note": "It was fought over three days in July 1863."
+  },
+  {
+    "id": "hist_112",
+    "question": "Who was the Confederate general who surrendered at Appomattox Court House?",
+    "type": "text",
+    "answer": "Robert E. Lee",
+    "acceptableAnswers": [
+      "robert e. lee",
+      "robert lee",
+      "lee"
+    ],
+    "note": "His surrender effectively ended the Civil War."
+  },
+  {
+    "id": "hist_113",
+    "question": "Who was the Union general who accepted Lee's surrender in 1865?",
+    "type": "text",
+    "answer": "Ulysses S. Grant",
+    "acceptableAnswers": [
+      "ulysses s. grant",
+      "ulysses grant",
+      "grant"
+    ],
+    "note": "He later became the 18th President of the United States."
+  },
+  {
+    "id": "hist_114",
+    "question": "What name is given to the period of rebuilding the South after the Civil War?",
+    "type": "text",
+    "answer": "Reconstruction",
+    "acceptableAnswers": [
+      "reconstruction"
+    ],
+    "note": "It lasted roughly from 1865 to 1877."
+  },
+  {
+    "id": "hist_115",
+    "question": "Who was the civil rights activist who refused to give up her bus seat in Montgomery, Alabama?",
+    "type": "text",
+    "answer": "Rosa Parks",
+    "acceptableAnswers": [
+      "rosa parks"
+    ],
+    "note": "Her arrest sparked the Montgomery Bus Boycott."
+  },
+  {
+    "id": "hist_116",
+    "question": "What was the name of the battleship that sank at Pearl Harbor with most of its crew still aboard?",
+    "type": "text",
+    "answer": "USS Arizona",
+    "acceptableAnswers": [
+      "uss arizona",
+      "arizona"
+    ],
+    "note": "A memorial now stands over the wreck in Pearl Harbor."
+  },
+  {
+    "id": "hist_117",
+    "question": "What name is given to the Nazi genocide of six million Jews during World War II?",
+    "type": "text",
+    "answer": "The Holocaust",
+    "acceptableAnswers": [
+      "the holocaust",
+      "holocaust"
+    ],
+    "note": "Millions of others were also targeted and killed by the Nazi regime."
+  },
+  {
+    "id": "hist_118",
+    "question": "What was the name of the barrier that divided East and West Berlin during the Cold War?",
+    "type": "text",
+    "answer": "Berlin Wall",
+    "acceptableAnswers": [
+      "berlin wall",
+      "the berlin wall"
+    ],
+    "note": "It stood from 1961 until it was torn down in 1989."
+  },
+  {
+    "id": "hist_119",
+    "question": "Who was the chancellor who led the unification of Germany in 1871?",
+    "type": "text",
+    "answer": "Otto von Bismarck",
+    "acceptableAnswers": [
+      "otto von bismarck",
+      "bismarck"
+    ],
+    "note": "He was known as the \"Iron Chancellor.\""
+  },
+  {
+    "id": "hist_120",
+    "question": "What was the name of the system of racial segregation enforced in South Africa for decades?",
+    "type": "text",
+    "answer": "Apartheid",
+    "acceptableAnswers": [
+      "apartheid"
+    ],
+    "note": "It legally separated people by race until the early 1990s."
+  },
+  {
+    "id": "hist_121",
+    "question": "Who was the activist who fought apartheid and became South Africa's first Black president?",
+    "type": "text",
+    "answer": "Nelson Mandela",
+    "acceptableAnswers": [
+      "nelson mandela",
+      "mandela"
+    ],
+    "note": "He spent 27 years in prison before his release in 1990."
+  },
+  {
+    "id": "hist_122",
+    "question": "What name is given to the forced transport of enslaved Africans across the Atlantic Ocean?",
+    "type": "text",
+    "answer": "Atlantic slave trade",
+    "acceptableAnswers": [
+      "atlantic slave trade",
+      "transatlantic slave trade"
+    ],
+    "note": "It forcibly transported millions of Africans to the Americas."
+  },
+  {
+    "id": "hist_123",
+    "question": "Who was the queen of England during the defeat of the Spanish Armada?",
+    "type": "text",
+    "answer": "Queen Elizabeth I",
+    "acceptableAnswers": [
+      "queen elizabeth i",
+      "elizabeth i"
+    ],
+    "note": "Her reign is often called England's Golden Age."
+  },
+  {
+    "id": "hist_124",
+    "question": "Who was the Native American woman who helped guide the Lewis and Clark expedition?",
+    "type": "text",
+    "answer": "Sacagawea",
+    "acceptableAnswers": [
+      "sacagawea"
+    ],
+    "note": "She served as an interpreter and guide across the western territories."
+  },
+  {
+    "id": "hist_125",
+    "question": "Who were the two explorers who led an expedition across the American West after the Louisiana Purchase?",
+    "type": "text",
+    "answer": "Lewis and Clark",
+    "acceptableAnswers": [
+      "lewis and clark",
+      "meriwether lewis and william clark"
+    ],
+    "note": "Their expedition mapped much of the newly acquired western territory."
+  },
+  {
+    "id": "hist_126",
+    "question": "What term describes the economic policy in which colonies existed mainly to enrich their mother country?",
+    "type": "text",
+    "answer": "Mercantilism",
+    "acceptableAnswers": [
+      "mercantilism"
+    ],
+    "note": "European powers used it to justify tightly controlling colonial trade."
+  },
+  {
+    "id": "hist_127",
+    "question": "What document did the Continental Congress adopt in 1776 to declare independence from Britain?",
+    "type": "text",
+    "answer": "Declaration of Independence",
+    "acceptableAnswers": [
+      "declaration of independence"
+    ],
+    "note": "It was largely drafted by Thomas Jefferson."
+  },
+  {
+    "id": "hist_128",
+    "question": "Who was the first Emperor of Rome?",
+    "type": "text",
+    "answer": "Augustus",
+    "acceptableAnswers": [
+      "augustus",
+      "caesar augustus",
+      "octavian"
+    ],
+    "note": "He came to power after the death of Julius Caesar and years of civil war."
+  },
+  {
+    "id": "hist_129",
+    "question": "What ancient civilization built the pyramids of Giza?",
+    "type": "text",
+    "answer": "Ancient Egyptians",
+    "acceptableAnswers": [
+      "ancient egyptians",
+      "egyptians"
+    ],
+    "note": "The Great Pyramid was built as a tomb for the pharaoh Khufu."
+  },
+  {
+    "id": "hist_130",
+    "question": "What ancient Greek city-state was known for its rigorous military culture?",
+    "type": "text",
+    "answer": "Sparta",
+    "acceptableAnswers": [
+      "sparta"
+    ],
+    "note": "Spartan boys began military training at a very young age."
+  },
+  {
+    "id": "hist_131",
+    "question": "What ancient Greek city-state is considered the birthplace of democracy?",
+    "type": "text",
+    "answer": "Athens",
+    "acceptableAnswers": [
+      "athens"
+    ],
+    "note": "Its system let citizens vote directly on many public decisions."
+  },
+  {
+    "id": "hist_132",
+    "question": "Who was the Macedonian king who built an empire stretching from Greece to India?",
+    "type": "text",
+    "answer": "Alexander the Great",
+    "acceptableAnswers": [
+      "alexander the great",
+      "alexander"
+    ],
+    "note": "He died at just 32 years old, having never lost a battle."
+  },
+  {
+    "id": "hist_133",
+    "question": "What empire, centered at Tenochtitlan, was conquered by Spanish forces in the 1500s?",
+    "type": "text",
+    "answer": "Aztec Empire",
+    "acceptableAnswers": [
+      "aztec empire",
+      "aztecs"
+    ],
+    "note": "Hernan Cortes led the conquest with the help of local allies."
+  },
+  {
+    "id": "hist_134",
+    "question": "What ancient Incan citadel high in the Andes Mountains was rediscovered by Hiram Bingham in 1911?",
+    "type": "text",
+    "answer": "Machu Picchu",
+    "acceptableAnswers": [
+      "machu picchu"
+    ],
+    "note": "It sits high in the Peruvian Andes and is a UNESCO World Heritage Site."
+  },
+  {
+    "id": "hist_135",
+    "question": "Who was the explorer whose expedition was the first to circumnavigate the globe, though he died before its completion?",
+    "type": "text",
+    "answer": "Ferdinand Magellan",
+    "acceptableAnswers": [
+      "ferdinand magellan",
+      "magellan"
+    ],
+    "note": "His crew completed the voyage around the world in 1522."
+  },
+  {
+    "id": "hist_136",
+    "question": "Who was the Italian explorer, sailing for England, who explored the North American coast in 1497?",
+    "type": "text",
+    "answer": "John Cabot",
+    "acceptableAnswers": [
+      "john cabot",
+      "cabot"
+    ],
+    "note": "His voyage helped establish English claims in North America."
+  },
+  {
+    "id": "hist_137",
+    "question": "What name is given to the 1791-1804 slave uprising that led to Haiti's independence?",
+    "type": "text",
+    "answer": "Haitian Revolution",
+    "acceptableAnswers": [
+      "haitian revolution"
+    ],
+    "note": "It created the first Black-led republic in the world."
+  },
+  {
+    "id": "hist_138",
+    "question": "Who was the French queen executed during the French Revolution?",
+    "type": "text",
+    "answer": "Marie Antoinette",
+    "acceptableAnswers": [
+      "marie antoinette"
+    ],
+    "note": "She was married to King Louis XVI, who was also executed."
+  },
+  {
+    "id": "hist_139",
+    "question": "What document, drafted in 1787, established the framework of the US federal government?",
+    "type": "text",
+    "answer": "US Constitution",
+    "acceptableAnswers": [
+      "us constitution",
+      "united states constitution",
+      "the constitution"
+    ],
+    "note": "It replaced the earlier Articles of Confederation."
+  },
+  {
+    "id": "hist_140",
+    "question": "Who delivered the Gettysburg Address in 1863?",
+    "type": "text",
+    "answer": "Abraham Lincoln",
+    "acceptableAnswers": [
+      "abraham lincoln",
+      "lincoln"
+    ],
+    "note": "The short speech honored soldiers who died at Gettysburg."
+  },
+  {
+    "id": "hist_141",
+    "question": "Who was the labor leader who co-founded the United Farm Workers with Dolores Huerta?",
+    "type": "text",
+    "answer": "Cesar Chavez",
+    "acceptableAnswers": [
+      "cesar chavez",
+      "chavez"
+    ],
+    "note": "He organized migrant farm workers for better pay and conditions."
+  },
+  {
+    "id": "hist_142",
+    "question": "Who was the suffragist leader who helped found the National American Woman Suffrage Association?",
+    "type": "text",
+    "answer": "Susan B. Anthony",
+    "acceptableAnswers": [
+      "susan b. anthony",
+      "susan anthony"
+    ],
+    "note": "She campaigned for decades before women won the right to vote."
+  },
+  {
+    "id": "hist_143",
+    "question": "What name is given to the deadly plague that killed millions across Europe in the 14th century?",
+    "type": "text",
+    "answer": "Black Death",
+    "acceptableAnswers": [
+      "black death",
+      "bubonic plague"
+    ],
+    "note": "It is estimated to have killed a third or more of Europe's population."
+  },
+  {
+    "id": "hist_144",
+    "question": "Who was the President of the Confederate States during the Civil War?",
+    "type": "text",
+    "answer": "Jefferson Davis",
+    "acceptableAnswers": [
+      "jefferson davis",
+      "davis"
+    ],
+    "note": "He led the Confederacy throughout its brief existence."
+  },
+  {
+    "id": "hist_145",
+    "question": "What was the name of the 1969 mission during which astronauts first landed on the moon?",
+    "type": "text",
+    "answer": "Apollo 11",
+    "acceptableAnswers": [
+      "apollo 11"
+    ],
+    "note": "It carried Neil Armstrong, Buzz Aldrin, and Michael Collins."
+  },
+  {
+    "id": "hist_146",
+    "question": "Who was the German monk who started the Protestant Reformation?",
+    "type": "text",
+    "answer": "Martin Luther",
+    "acceptableAnswers": [
+      "martin luther",
+      "luther"
+    ],
+    "note": "His Ninety-Five Theses criticized practices of the Catholic Church."
+  },
+  {
+    "id": "hist_147",
+    "question": "Who was the Spanish conquistador who led the conquest of the Inca Empire?",
+    "type": "text",
+    "answer": "Francisco Pizarro",
+    "acceptableAnswers": [
+      "francisco pizarro",
+      "pizarro"
+    ],
+    "note": "He captured the Inca emperor Atahualpa in 1532."
+  },
+  {
+    "id": "hist_148",
+    "question": "What was the name of the trail pioneers used to travel from Missouri to Oregon in the 1800s?",
+    "type": "text",
+    "answer": "Oregon Trail",
+    "acceptableAnswers": [
+      "oregon trail",
+      "the oregon trail"
+    ],
+    "note": "Wagon trains carried settlers roughly 2,000 miles west."
+  },
+  {
+    "id": "hist_149",
+    "question": "Who was the first female Prime Minister of the United Kingdom?",
+    "type": "text",
+    "answer": "Margaret Thatcher",
+    "acceptableAnswers": [
+      "margaret thatcher",
+      "thatcher"
+    ],
+    "note": "She served as prime minister throughout the 1980s."
+  },
+  {
+    "id": "hist_150",
+    "question": "Who was the US President who led the country through the Cuban Missile Crisis?",
+    "type": "text",
+    "answer": "John F. Kennedy",
+    "acceptableAnswers": [
+      "john f. kennedy",
+      "john kennedy",
+      "jfk"
+    ],
+    "note": "He was assassinated the following year, in 1963."
+  },
+  {
+    "id": "hist_151",
+    "question": "Who was the Soviet leader during the Cuban Missile Crisis?",
+    "type": "text",
+    "answer": "Nikita Khrushchev",
+    "acceptableAnswers": [
+      "nikita khrushchev",
+      "khrushchev"
+    ],
+    "note": "He agreed to remove Soviet missiles from Cuba to end the standoff."
+  },
+  {
+    "id": "hist_152",
+    "question": "What name is given to the wave of anti-communist accusations led by a US senator in the early 1950s?",
+    "type": "text",
+    "answer": "McCarthyism",
+    "acceptableAnswers": [
+      "mccarthyism"
+    ],
+    "note": "It is named after Senator Joseph McCarthy."
+  },
+  {
+    "id": "hist_153",
+    "question": "Who commanded Allied forces in Europe during D-Day and later became US president?",
+    "type": "text",
+    "answer": "Dwight D. Eisenhower",
+    "acceptableAnswers": [
+      "dwight d. eisenhower",
+      "dwight eisenhower",
+      "eisenhower"
+    ],
+    "note": "He served as the 34th President of the United States."
+  },
+  {
+    "id": "hist_154",
+    "question": "What was the code name for the secret US project to develop the atomic bomb during WWII?",
+    "type": "text",
+    "answer": "Manhattan Project",
+    "acceptableAnswers": [
+      "manhattan project",
+      "the manhattan project"
+    ],
+    "note": "It employed scientists like J. Robert Oppenheimer."
+  },
+  {
+    "id": "hist_155",
+    "question": "Who was the first explorer to reach the South Pole?",
+    "type": "text",
+    "answer": "Roald Amundsen",
+    "acceptableAnswers": [
+      "roald amundsen",
+      "amundsen"
+    ],
+    "note": "His Norwegian team reached the pole in December 1911."
+  },
+  {
+    "id": "hist_156",
+    "question": "What treaty ended the Mexican-American War and gave the US large western territories?",
+    "type": "text",
+    "answer": "Treaty of Guadalupe Hidalgo",
+    "acceptableAnswers": [
+      "treaty of guadalupe hidalgo",
+      "guadalupe hidalgo"
+    ],
+    "note": "It added territory including California and much of the Southwest."
+  },
+  {
+    "id": "hist_157",
+    "question": "Which English king broke from the Catholic Church to found the Church of England?",
+    "type": "text",
+    "answer": "King Henry VIII",
+    "acceptableAnswers": [
+      "king henry viii",
+      "henry viii"
+    ],
+    "note": "He wanted an annulment the Pope would not grant."
+  },
+  {
+    "id": "hist_158",
+    "question": "What ancient Chinese fortification was built to defend against northern invasions?",
+    "type": "text",
+    "answer": "Great Wall of China",
+    "acceptableAnswers": [
+      "great wall of china",
+      "the great wall",
+      "great wall"
+    ],
+    "note": "Different Chinese dynasties expanded it over many centuries."
+  },
+  {
+    "id": "hist_159",
+    "question": "Who was the Spanish explorer who claimed Florida for Spain while searching for the legendary Fountain of Youth?",
+    "type": "text",
+    "answer": "Juan Ponce de Leon",
+    "acceptableAnswers": [
+      "juan ponce de leon",
+      "ponce de leon"
+    ],
+    "note": "He led the first documented European expedition to Florida."
+  },
+  {
+    "id": "hist_160",
+    "question": "What name is given to the 1775-1783 war in which the American colonies won independence from Britain?",
+    "type": "text",
+    "answer": "American Revolutionary War",
+    "acceptableAnswers": [
+      "american revolutionary war",
+      "revolutionary war",
+      "american revolution",
+      "war of independence"
+    ],
+    "note": "It began with the battles of Lexington and Concord."
+  },
+  {
+    "id": "hist_161",
+    "question": "What was the main reason American colonists protested the Stamp Act of 1765?",
+    "type": "conceptual",
+    "answer": "Taxation without representation",
+    "acceptableAnswers": [
+      "taxation without representation",
+      "being taxed without a voice in parliament",
+      "unfair taxes without representation"
+    ],
+    "note": "Colonists argued only their own assemblies could tax them."
+  },
+  {
+    "id": "hist_162",
+    "question": "What event is considered the immediate trigger for the start of World War I?",
+    "type": "conceptual",
+    "answer": "Assassination of Archduke Franz Ferdinand",
+    "acceptableAnswers": [
+      "assassination of archduke franz ferdinand",
+      "assassination of franz ferdinand",
+      "franz ferdinand's assassination"
+    ],
+    "note": "He was heir to the Austro-Hungarian throne, killed in Sarajevo."
+  },
+  {
+    "id": "hist_163",
+    "question": "What was the main goal of the Marshall Plan after World War II?",
+    "type": "conceptual",
+    "answer": "To rebuild war-torn Europe",
+    "acceptableAnswers": [
+      "to rebuild war-torn europe",
+      "rebuilding europe's economy",
+      "help europe recover economically"
+    ],
+    "note": "US aid helped prevent the spread of communism in weakened economies."
+  },
+  {
+    "id": "hist_164",
+    "question": "What was the immediate effect of the Emancipation Proclamation on enslaved people in Confederate states?",
+    "type": "conceptual",
+    "answer": "It declared them free",
+    "acceptableAnswers": [
+      "it declared them free",
+      "declared confederate slaves free",
+      "freed slaves in confederate territory"
+    ],
+    "note": "It did not immediately free enslaved people in border states still loyal to the Union."
+  },
+  {
+    "id": "hist_165",
+    "question": "What economic system did the pre-Civil War Southern economy primarily depend on?",
+    "type": "conceptual",
+    "answer": "Slavery",
+    "acceptableAnswers": [
+      "slavery",
+      "enslaved labor",
+      "slave labor"
+    ],
+    "note": "Enslaved labor was central to Southern cotton and plantation agriculture."
+  },
+  {
+    "id": "hist_166",
+    "question": "What was the main purpose of the Underground Railroad?",
+    "type": "conceptual",
+    "answer": "To help enslaved people escape to freedom",
+    "acceptableAnswers": [
+      "to help enslaved people escape to freedom",
+      "helping slaves escape to free states or canada",
+      "secret network to free enslaved people"
+    ],
+    "note": "It relied on a network of safe houses and guides called conductors."
+  },
+  {
+    "id": "hist_167",
+    "question": "What was the main significance of the Battle of Gettysburg for the Civil War?",
+    "type": "conceptual",
+    "answer": "It was the turning point of the war",
+    "acceptableAnswers": [
+      "it was the turning point of the war",
+      "turning point that stopped confederate invasion of the north",
+      "major union victory that halted lee's invasion"
+    ],
+    "note": "It was the war's bloodiest battle and ended Confederate hopes of invading the North."
+  },
+  {
+    "id": "hist_168",
+    "question": "What directly caused the Cuban Missile Crisis in 1962?",
+    "type": "conceptual",
+    "answer": "The Soviet Union placed nuclear missiles in Cuba",
+    "acceptableAnswers": [
+      "the soviet union placed nuclear missiles in cuba",
+      "soviet missiles placed in cuba",
+      "discovery of soviet missiles in cuba"
+    ],
+    "note": "The standoff brought the US and USSR to the brink of nuclear war."
+  },
+  {
+    "id": "hist_169",
+    "question": "What was the primary reason the United States entered World War I in 1917?",
+    "type": "conceptual",
+    "answer": "German unrestricted submarine warfare",
+    "acceptableAnswers": [
+      "german unrestricted submarine warfare",
+      "germany's submarine attacks on us ships",
+      "unrestricted u-boat warfare"
+    ],
+    "note": "The sinking of ships and the Zimmermann Telegram pushed the US toward war."
+  },
+  {
+    "id": "hist_170",
+    "question": "What event directly led the United States to formally enter World War II?",
+    "type": "conceptual",
+    "answer": "The attack on Pearl Harbor",
+    "acceptableAnswers": [
+      "the attack on pearl harbor",
+      "japan's attack on pearl harbor",
+      "pearl harbor attack"
+    ],
+    "note": "Congress declared war on Japan the very next day."
+  },
+  {
+    "id": "hist_171",
+    "question": "What was the main purpose of the Monroe Doctrine?",
+    "type": "conceptual",
+    "answer": "To warn European powers against colonizing the Americas",
+    "acceptableAnswers": [
+      "to warn european powers against colonizing the americas",
+      "opposing further european colonization in the western hemisphere",
+      "keeping europe out of the americas"
+    ],
+    "note": "It became a cornerstone of US foreign policy in the Western Hemisphere."
+  },
+  {
+    "id": "hist_172",
+    "question": "What was the main significance of the Louisiana Purchase for the United States?",
+    "type": "conceptual",
+    "answer": "It doubled the size of the country",
+    "acceptableAnswers": [
+      "it doubled the size of the country",
+      "roughly doubled us territory",
+      "doubled the size of the united states"
+    ],
+    "note": "The land was bought from France for about $15 million."
+  },
+  {
+    "id": "hist_173",
+    "question": "What was the primary cause of the Mexican-American War?",
+    "type": "conceptual",
+    "answer": "A dispute over the annexation of Texas and its border",
+    "acceptableAnswers": [
+      "a dispute over the annexation of texas and its border",
+      "disagreement over the texas border after annexation",
+      "texas annexation border dispute"
+    ],
+    "note": "The war ended with Mexico ceding vast territories to the US."
+  },
+  {
+    "id": "hist_174",
+    "question": "What was the main significance of completing the transcontinental railroad in 1869?",
+    "type": "conceptual",
+    "answer": "It connected the east and west coasts of the US by rail",
+    "acceptableAnswers": [
+      "it connected the east and west coasts of the us by rail",
+      "linked the eastern and western united states by train",
+      "connected the country coast to coast"
+    ],
+    "note": "It dramatically sped up travel and trade across the continent."
+  },
+  {
+    "id": "hist_175",
+    "question": "What was the main cause of the mass hysteria behind the Salem witch trials?",
+    "type": "conceptual",
+    "answer": "Fear of witchcraft in the Puritan community",
+    "acceptableAnswers": [
+      "fear of witchcraft in the puritan community",
+      "widespread fear and accusations of witchcraft",
+      "religious fear and suspicion of witchcraft"
+    ],
+    "note": "Dozens were accused and about twenty people were executed."
+  },
+  {
+    "id": "hist_176",
+    "question": "What was the main purpose of the Bill of Rights?",
+    "type": "conceptual",
+    "answer": "To guarantee individual freedoms and civil liberties",
+    "acceptableAnswers": [
+      "to guarantee individual freedoms and civil liberties",
+      "protecting individual rights and liberties",
+      "guaranteeing basic citizen rights"
+    ],
+    "note": "It consists of the first ten amendments to the US Constitution."
+  },
+  {
+    "id": "hist_177",
+    "question": "What was the significance of the Battle of Yorktown in 1781?",
+    "type": "conceptual",
+    "answer": "It led to the British surrender, ending the Revolutionary War",
+    "acceptableAnswers": [
+      "it led to the british surrender, ending the revolutionary war",
+      "british surrender that effectively ended the war",
+      "final major battle leading to british defeat"
+    ],
+    "note": "General Cornwallis surrendered his army to American and French forces."
+  },
+  {
+    "id": "hist_178",
+    "question": "What was the significance of the discovery of the Rosetta Stone?",
+    "type": "conceptual",
+    "answer": "It helped scholars decipher Egyptian hieroglyphs",
+    "acceptableAnswers": [
+      "it helped scholars decipher egyptian hieroglyphs",
+      "allowed translation of egyptian hieroglyphics",
+      "key to reading ancient egyptian writing"
+    ],
+    "note": "It contained the same text in three scripts, including Greek."
+  },
+  {
+    "id": "hist_179",
+    "question": "What was the main purpose of the Homestead Act of 1862?",
+    "type": "conceptual",
+    "answer": "To give free land to settlers who farmed it",
+    "acceptableAnswers": [
+      "to give free land to settlers who farmed it",
+      "offering free western land to settlers",
+      "granting land to people who would farm it"
+    ],
+    "note": "It encouraged westward migration across the United States."
+  },
+  {
+    "id": "hist_180",
+    "question": "What was the significance of Rosa Parks' refusal to give up her bus seat in 1955?",
+    "type": "conceptual",
+    "answer": "It sparked the Montgomery Bus Boycott",
+    "acceptableAnswers": [
+      "it sparked the montgomery bus boycott",
+      "led to the montgomery bus boycott",
+      "triggered a major civil rights boycott"
+    ],
+    "note": "The boycott lasted over a year and helped launch the civil rights movement."
+  },
+  {
+    "id": "hist_181",
+    "question": "What was the primary goal of the Civil Rights Movement of the 1950s and 1960s?",
+    "type": "conceptual",
+    "answer": "To end racial segregation and discrimination",
+    "acceptableAnswers": [
+      "to end racial segregation and discrimination",
+      "ending segregation and securing equal rights",
+      "achieving racial equality under the law"
+    ],
+    "note": "It led to landmark laws like the Civil Rights Act and Voting Rights Act."
+  },
+  {
+    "id": "hist_182",
+    "question": "What was the significance of the Brown v. Board of Education ruling?",
+    "type": "conceptual",
+    "answer": "It declared public school segregation unconstitutional",
+    "acceptableAnswers": [
+      "it declared public school segregation unconstitutional",
+      "ruled that segregated schools were unconstitutional",
+      "ended legal segregation in public schools"
+    ],
+    "note": "It overturned the earlier \"separate but equal\" doctrine."
+  },
+  {
+    "id": "hist_183",
+    "question": "What was the main cause of the Dust Bowl in the 1930s?",
+    "type": "conceptual",
+    "answer": "Severe drought combined with poor farming practices",
+    "acceptableAnswers": [
+      "severe drought combined with poor farming practices",
+      "drought and soil erosion from overfarming",
+      "drought and bad farming causing soil erosion"
+    ],
+    "note": "High winds carried away topsoil across the Great Plains."
+  },
+  {
+    "id": "hist_184",
+    "question": "What was the primary purpose of the Manhattan Project?",
+    "type": "conceptual",
+    "answer": "To develop the atomic bomb",
+    "acceptableAnswers": [
+      "to develop the atomic bomb",
+      "building the first nuclear weapon",
+      "creating an atomic bomb during wwii"
+    ],
+    "note": "It employed thousands of scientists and workers in secret."
+  },
+  {
+    "id": "hist_185",
+    "question": "What did the fall of the Berlin Wall in 1989 symbolize?",
+    "type": "conceptual",
+    "answer": "The end of the Cold War division of Germany",
+    "acceptableAnswers": [
+      "the end of the cold war division of germany",
+      "end of communist east germany's isolation",
+      "symbolic end of the cold war in europe"
+    ],
+    "note": "Germany was formally reunified the following year."
+  },
+  {
+    "id": "hist_186",
+    "question": "What was the main goal of Martin Luther's Reformation?",
+    "type": "conceptual",
+    "answer": "To reform the Catholic Church's practices",
+    "acceptableAnswers": [
+      "to reform the catholic church's practices",
+      "reforming corrupt practices in the catholic church",
+      "challenging catholic church teachings and practices"
+    ],
+    "note": "It led to the creation of Protestant branches of Christianity."
+  },
+  {
+    "id": "hist_187",
+    "question": "What was the significance of the Gutenberg printing press?",
+    "type": "conceptual",
+    "answer": "It allowed books and information to be mass produced",
+    "acceptableAnswers": [
+      "it allowed books and information to be mass produced",
+      "enabled mass production of printed books",
+      "made printing books faster and cheaper"
+    ],
+    "note": "It dramatically increased literacy and the spread of ideas in Europe."
+  },
+  {
+    "id": "hist_188",
+    "question": "What was the primary cause of the Trail of Tears?",
+    "type": "conceptual",
+    "answer": "The forced removal of Native Americans from their land",
+    "acceptableAnswers": [
+      "the forced removal of native americans from their land",
+      "forced relocation of native american tribes",
+      "government policy forcing tribes off their land"
+    ],
+    "note": "Thousands of Cherokee and other Native Americans died on the journey west."
+  },
+  {
+    "id": "hist_189",
+    "question": "What was the significance of the Gettysburg Address?",
+    "type": "conceptual",
+    "answer": "It redefined the Civil War as a struggle for human equality",
+    "acceptableAnswers": [
+      "it redefined the civil war as a struggle for human equality",
+      "reframed the war around liberty and equality",
+      "honored soldiers and restated the nation's ideals"
+    ],
+    "note": "The speech lasted only about two minutes but became deeply influential."
+  },
+  {
+    "id": "hist_190",
+    "question": "What was the primary cause of the American Revolution?",
+    "type": "conceptual",
+    "answer": "Colonial anger over British taxation without representation",
+    "acceptableAnswers": [
+      "colonial anger over british taxation without representation",
+      "anger over taxes imposed without colonial consent",
+      "resentment of british taxes and control"
+    ],
+    "note": "Colonists felt they should not be taxed by a parliament they had no voice in."
+  },
+  {
+    "id": "hist_191",
+    "question": "What was the significance of the Treaty of Versailles for Germany after World War I?",
+    "type": "conceptual",
+    "answer": "It imposed harsh penalties and reparations on Germany",
+    "acceptableAnswers": [
+      "it imposed harsh penalties and reparations on germany",
+      "forced germany to pay heavy war reparations",
+      "placed blame and heavy costs on germany"
+    ],
+    "note": "Many historians see its harshness as a factor leading to WWII."
+  },
+  {
+    "id": "hist_192",
+    "question": "What was the main goal of the New Deal programs?",
+    "type": "conceptual",
+    "answer": "To help the US recover from the Great Depression",
+    "acceptableAnswers": [
+      "to help the us recover from the great depression",
+      "helping the economy recover from the depression",
+      "providing relief and jobs during the depression"
+    ],
+    "note": "The programs created jobs and new government protections."
+  },
+  {
+    "id": "hist_193",
+    "question": "What was the primary cause of Cold War tension between the US and Soviet Union?",
+    "type": "conceptual",
+    "answer": "Conflicting ideologies of capitalism and communism",
+    "acceptableAnswers": [
+      "conflicting ideologies of capitalism and communism",
+      "rivalry between capitalist and communist systems",
+      "opposing political and economic systems"
+    ],
+    "note": "The rivalry shaped global politics for over four decades."
+  },
+  {
+    "id": "hist_194",
+    "question": "What was the significance of the Soviet launch of Sputnik in 1957?",
+    "type": "conceptual",
+    "answer": "It started the Space Race",
+    "acceptableAnswers": [
+      "it started the space race",
+      "began the space race with the united states",
+      "kicked off the us-soviet space race"
+    ],
+    "note": "It was the first artificial satellite to orbit the Earth."
+  },
+  {
+    "id": "hist_195",
+    "question": "What was the main purpose of the Berlin Airlift?",
+    "type": "conceptual",
+    "answer": "To supply West Berlin with food and fuel during a Soviet blockade",
+    "acceptableAnswers": [
+      "to supply west berlin with food and fuel during a soviet blockade",
+      "flying supplies into blockaded west berlin",
+      "getting supplies to west berlin by air"
+    ],
+    "note": "Allied planes made continuous flights for nearly a year."
+  },
+  {
+    "id": "hist_196",
+    "question": "What was the significance of the 13th Amendment?",
+    "type": "conceptual",
+    "answer": "It abolished slavery in the United States",
+    "acceptableAnswers": [
+      "it abolished slavery in the united states",
+      "ended slavery nationwide",
+      "legally abolished slavery"
+    ],
+    "note": "It was ratified in December 1865, after the Civil War ended."
+  },
+  {
+    "id": "hist_197",
+    "question": "What was the primary reason Jefferson pursued the Louisiana Purchase?",
+    "type": "conceptual",
+    "answer": "To gain control of the port of New Orleans and western land",
+    "acceptableAnswers": [
+      "to gain control of the port of new orleans and western land",
+      "securing new orleans and the mississippi river",
+      "controlling access to the mississippi river and new orleans"
+    ],
+    "note": "Control of the Mississippi River was vital for American trade."
+  },
+  {
+    "id": "hist_198",
+    "question": "What was the significance of the Wright brothers' 1903 flight at Kitty Hawk?",
+    "type": "conceptual",
+    "answer": "It was the first successful powered airplane flight",
+    "acceptableAnswers": [
+      "it was the first successful powered airplane flight",
+      "first sustained controlled flight of an airplane",
+      "first successful engine-powered flight"
+    ],
+    "note": "The flight lasted only 12 seconds but changed transportation forever."
+  },
+  {
+    "id": "hist_199",
+    "question": "What was the main cause of the Irish Potato Famine?",
+    "type": "conceptual",
+    "answer": "A potato blight that destroyed crops",
+    "acceptableAnswers": [
+      "a potato blight that destroyed crops",
+      "disease that wiped out the potato crop",
+      "fungal blight that ruined potato harvests"
+    ],
+    "note": "It led to mass starvation and emigration from Ireland."
+  },
+  {
+    "id": "hist_200",
+    "question": "What was the significance of the Silk Road in ancient and medieval times?",
+    "type": "conceptual",
+    "answer": "It connected trade between Asia and Europe",
+    "acceptableAnswers": [
+      "it connected trade between asia and europe",
+      "linked trade routes across asia and europe",
+      "enabled trade and cultural exchange between east and west"
+    ],
+    "note": "Goods, ideas, and even diseases traveled along its many routes."
+  },
+  {
+    "id": "hist_201",
+    "question": "What was the primary purpose of the pyramids built by ancient Egyptians?",
+    "type": "conceptual",
+    "answer": "They served as tombs for pharaohs",
+    "acceptableAnswers": [
+      "they served as tombs for pharaohs",
+      "burial monuments for egyptian kings",
+      "tombs to house dead pharaohs"
+    ],
+    "note": "The Great Pyramid of Giza is the only ancient wonder still standing."
+  },
+  {
+    "id": "hist_202",
+    "question": "What was the significance of the Renaissance period in Europe?",
+    "type": "conceptual",
+    "answer": "It was a revival of art, learning, and culture",
+    "acceptableAnswers": [
+      "it was a revival of art, learning, and culture",
+      "a rebirth of classical art and learning",
+      "renewed interest in art, science, and classical learning"
+    ],
+    "note": "It began in Italy and later spread across Europe."
+  },
+  {
+    "id": "hist_203",
+    "question": "What was the main cause of the rise of the Industrial Revolution in Britain?",
+    "type": "conceptual",
+    "answer": "New manufacturing technology and factories",
+    "acceptableAnswers": [
+      "new manufacturing technology and factories",
+      "new machines and factory production methods",
+      "technological innovation in manufacturing"
+    ],
+    "note": "It shifted economies from farming toward factory-based production."
+  },
+  {
+    "id": "hist_204",
+    "question": "What was the primary purpose of the Great Wall of China?",
+    "type": "conceptual",
+    "answer": "To protect China from invasions",
+    "acceptableAnswers": [
+      "to protect china from invasions",
+      "defending china against northern invaders",
+      "keeping out invading armies"
+    ],
+    "note": "Various dynasties built and extended it over many centuries."
+  },
+  {
+    "id": "hist_205",
+    "question": "What did Nelson Mandela's 1990 release from prison represent?",
+    "type": "conceptual",
+    "answer": "Progress toward ending apartheid in South Africa",
+    "acceptableAnswers": [
+      "progress toward ending apartheid in south africa",
+      "a major step toward ending apartheid",
+      "the beginning of the end of apartheid"
+    ],
+    "note": "He became South Africa's first Black president four years later."
+  },
+  {
+    "id": "hist_206",
+    "question": "What was the main effect of the transatlantic slave trade on Africa?",
+    "type": "conceptual",
+    "answer": "It forcibly removed millions of Africans into slavery",
+    "acceptableAnswers": [
+      "it forcibly removed millions of africans into slavery",
+      "millions of africans were enslaved and transported",
+      "mass forced removal of africans as slaves"
+    ],
+    "note": "It devastated communities and economies across the African continent."
+  },
+  {
+    "id": "hist_207",
+    "question": "What was the significance of the Treaty of Tordesillas?",
+    "type": "conceptual",
+    "answer": "It divided newly discovered lands between Spain and Portugal",
+    "acceptableAnswers": [
+      "it divided newly discovered lands between spain and portugal",
+      "split colonial claims between spain and portugal",
+      "set a dividing line for spanish and portuguese territory"
+    ],
+    "note": "The line ran through South America, giving Portugal claim to Brazil."
+  },
+  {
+    "id": "hist_208",
+    "question": "What was the primary purpose of the Panama Canal?",
+    "type": "conceptual",
+    "answer": "To let ships travel between the Atlantic and Pacific without going around South America",
+    "acceptableAnswers": [
+      "to let ships travel between the atlantic and pacific without going around south america",
+      "shortcut connecting the atlantic and pacific oceans",
+      "allowing ships to cross between the two oceans quickly"
+    ],
+    "note": "It dramatically shortened sea voyages between the two oceans."
+  },
+  {
+    "id": "hist_209",
+    "question": "What was the significance of the invention of the cotton gin?",
+    "type": "conceptual",
+    "answer": "It sped up cotton processing and increased demand for enslaved labor",
+    "acceptableAnswers": [
+      "it sped up cotton processing and increased demand for enslaved labor",
+      "made cleaning cotton much faster, expanding slavery",
+      "increased cotton production and reliance on slave labor"
+    ],
+    "note": "Eli Whitney's invention transformed the Southern cotton economy."
+  },
+  {
+    "id": "hist_210",
+    "question": "What was the main cause of the Boston Massacre?",
+    "type": "conceptual",
+    "answer": "Rising tension between colonists and British soldiers stationed in Boston",
+    "acceptableAnswers": [
+      "rising tension between colonists and british soldiers stationed in boston",
+      "conflict between angry colonists and british troops",
+      "hostility between colonists and occupying british soldiers"
+    ],
+    "note": "British soldiers fired into a crowd, killing five colonists."
+  }
+]

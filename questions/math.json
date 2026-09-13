@@ -1,0 +1,1750 @@
+[
+  {
+    "id": "math_001",
+    "question": "What is 13 + 11 × 12?",
+    "type": "numeric",
+    "answer": 145,
+    "note": "Multiplication and division happen before addition and subtraction."
+  },
+  {
+    "id": "math_002",
+    "question": "What is (16 + 15) × 7?",
+    "type": "numeric",
+    "answer": 217,
+    "note": "Multiplication and division happen before addition and subtraction."
+  },
+  {
+    "id": "math_003",
+    "question": "What is 2 × 9 − 5?",
+    "type": "numeric",
+    "answer": 13,
+    "note": "Multiplication and division happen before addition and subtraction."
+  },
+  {
+    "id": "math_004",
+    "question": "What is 30 ÷ 2 + 5?",
+    "type": "numeric",
+    "answer": 20,
+    "note": "Multiplication and division happen before addition and subtraction."
+  },
+  {
+    "id": "math_005",
+    "question": "What is 19 + 18 × 11?",
+    "type": "numeric",
+    "answer": 217,
+    "note": "Multiplication and division happen before addition and subtraction."
+  },
+  {
+    "id": "math_006",
+    "question": "What is (7 + 17) × 2?",
+    "type": "numeric",
+    "answer": 48,
+    "note": "Multiplication and division happen before addition and subtraction."
+  },
+  {
+    "id": "math_007",
+    "question": "What is 20 × 4 − 3?",
+    "type": "numeric",
+    "answer": 77,
+    "note": "Multiplication and division happen before addition and subtraction."
+  },
+  {
+    "id": "math_008",
+    "question": "What is 112 ÷ 8 + 4?",
+    "type": "numeric",
+    "answer": 18,
+    "note": "Multiplication and division happen before addition and subtraction."
+  },
+  {
+    "id": "math_009",
+    "question": "What is 7 + 11 × 2?",
+    "type": "numeric",
+    "answer": 29,
+    "note": "Multiplication and division happen before addition and subtraction."
+  },
+  {
+    "id": "math_010",
+    "question": "What is (12 + 14) × 9?",
+    "type": "numeric",
+    "answer": 234,
+    "note": "Multiplication and division happen before addition and subtraction."
+  },
+  {
+    "id": "math_011",
+    "question": "What is 17 × 5 − 11?",
+    "type": "numeric",
+    "answer": 74,
+    "note": "Multiplication and division happen before addition and subtraction."
+  },
+  {
+    "id": "math_012",
+    "question": "What is 38 ÷ 2 + 11?",
+    "type": "numeric",
+    "answer": 30,
+    "note": "Multiplication and division happen before addition and subtraction."
+  },
+  {
+    "id": "math_013",
+    "question": "What is 11 + 2 × 3?",
+    "type": "numeric",
+    "answer": 17,
+    "note": "Multiplication and division happen before addition and subtraction."
+  },
+  {
+    "id": "math_014",
+    "question": "What is (6 + 8) × 8?",
+    "type": "numeric",
+    "answer": 112,
+    "note": "Multiplication and division happen before addition and subtraction."
+  },
+  {
+    "id": "math_015",
+    "question": "What is 13 × 6 − 8?",
+    "type": "numeric",
+    "answer": 70,
+    "note": "Multiplication and division happen before addition and subtraction."
+  },
+  {
+    "id": "math_016",
+    "question": "What is 27 ÷ 9 + 2?",
+    "type": "numeric",
+    "answer": 5,
+    "note": "Multiplication and division happen before addition and subtraction."
+  },
+  {
+    "id": "math_017",
+    "question": "What is 6 + 17 × 4?",
+    "type": "numeric",
+    "answer": 74,
+    "note": "Multiplication and division happen before addition and subtraction."
+  },
+  {
+    "id": "math_018",
+    "question": "What is (3 + 2) × 3?",
+    "type": "numeric",
+    "answer": 15,
+    "note": "Multiplication and division happen before addition and subtraction."
+  },
+  {
+    "id": "math_019",
+    "question": "What is 12 × 5 − 6?",
+    "type": "numeric",
+    "answer": 54,
+    "note": "Multiplication and division happen before addition and subtraction."
+  },
+  {
+    "id": "math_020",
+    "question": "What is 64 ÷ 8 + 6?",
+    "type": "numeric",
+    "answer": 14,
+    "note": "Multiplication and division happen before addition and subtraction."
+  },
+  {
+    "id": "math_021",
+    "question": "What is 10 + 17 × 3?",
+    "type": "numeric",
+    "answer": 61,
+    "note": "Multiplication and division happen before addition and subtraction."
+  },
+  {
+    "id": "math_022",
+    "question": "What is (12 + 16) × 8?",
+    "type": "numeric",
+    "answer": 224,
+    "note": "Multiplication and division happen before addition and subtraction."
+  },
+  {
+    "id": "math_023",
+    "question": "What is 9 × 4 − 2?",
+    "type": "numeric",
+    "answer": 34,
+    "note": "Multiplication and division happen before addition and subtraction."
+  },
+  {
+    "id": "math_024",
+    "question": "What is 72 ÷ 6 + 12?",
+    "type": "numeric",
+    "answer": 24,
+    "note": "Multiplication and division happen before addition and subtraction."
+  },
+  {
+    "id": "math_025",
+    "question": "What is 3 + 20 × 8?",
+    "type": "numeric",
+    "answer": 163,
+    "note": "Multiplication and division happen before addition and subtraction."
+  },
+  {
+    "id": "math_026",
+    "question": "What is (4 + 3) × 11?",
+    "type": "numeric",
+    "answer": 77,
+    "note": "Multiplication and division happen before addition and subtraction."
+  },
+  {
+    "id": "math_027",
+    "question": "What is 10 × 8 − 9?",
+    "type": "numeric",
+    "answer": 71,
+    "note": "Multiplication and division happen before addition and subtraction."
+  },
+  {
+    "id": "math_028",
+    "question": "What is 72 ÷ 9 + 7?",
+    "type": "numeric",
+    "answer": 15,
+    "note": "Multiplication and division happen before addition and subtraction."
+  },
+  {
+    "id": "math_029",
+    "question": "What is 8 + 15 × 7?",
+    "type": "numeric",
+    "answer": 113,
+    "note": "Multiplication and division happen before addition and subtraction."
+  },
+  {
+    "id": "math_030",
+    "question": "What is (3 + 12) × 6?",
+    "type": "numeric",
+    "answer": 90,
+    "note": "Multiplication and division happen before addition and subtraction."
+  },
+  {
+    "id": "math_031",
+    "question": "What is 2 × 6 − 12?",
+    "type": "numeric",
+    "answer": 0,
+    "note": "Multiplication and division happen before addition and subtraction."
+  },
+  {
+    "id": "math_032",
+    "question": "What is 39 ÷ 3 + 7?",
+    "type": "numeric",
+    "answer": 20,
+    "note": "Multiplication and division happen before addition and subtraction."
+  },
+  {
+    "id": "math_033",
+    "question": "What is 6 + 3 × 5?",
+    "type": "numeric",
+    "answer": 21,
+    "note": "Multiplication and division happen before addition and subtraction."
+  },
+  {
+    "id": "math_034",
+    "question": "What is (14 + 6) × 9?",
+    "type": "numeric",
+    "answer": 180,
+    "note": "Multiplication and division happen before addition and subtraction."
+  },
+  {
+    "id": "math_035",
+    "question": "What is 15 × 2 − 4?",
+    "type": "numeric",
+    "answer": 26,
+    "note": "Multiplication and division happen before addition and subtraction."
+  },
+  {
+    "id": "math_036",
+    "question": "What is 96 ÷ 8 + 9?",
+    "type": "numeric",
+    "answer": 21,
+    "note": "Multiplication and division happen before addition and subtraction."
+  },
+  {
+    "id": "math_037",
+    "question": "What is 19 + 5 × 2?",
+    "type": "numeric",
+    "answer": 29,
+    "note": "Multiplication and division happen before addition and subtraction."
+  },
+  {
+    "id": "math_038",
+    "question": "What is (5 + 10) × 4?",
+    "type": "numeric",
+    "answer": 60,
+    "note": "Multiplication and division happen before addition and subtraction."
+  },
+  {
+    "id": "math_039",
+    "question": "What is 6 × 4 − 4?",
+    "type": "numeric",
+    "answer": 20,
+    "note": "Multiplication and division happen before addition and subtraction."
+  },
+  {
+    "id": "math_040",
+    "question": "What is 4 ÷ 2 + 2?",
+    "type": "numeric",
+    "answer": 4,
+    "note": "Multiplication and division happen before addition and subtraction."
+  },
+  {
+    "id": "math_041",
+    "question": "What is 15 + 5 × 10?",
+    "type": "numeric",
+    "answer": 65,
+    "note": "Multiplication and division happen before addition and subtraction."
+  },
+  {
+    "id": "math_042",
+    "question": "What is (9 + 12) × 6?",
+    "type": "numeric",
+    "answer": 126,
+    "note": "Multiplication and division happen before addition and subtraction."
+  },
+  {
+    "id": "math_043",
+    "question": "What is 15 × 4 − 6?",
+    "type": "numeric",
+    "answer": 54,
+    "note": "Multiplication and division happen before addition and subtraction."
+  },
+  {
+    "id": "math_044",
+    "question": "What is 26 ÷ 2 + 12?",
+    "type": "numeric",
+    "answer": 25,
+    "note": "Multiplication and division happen before addition and subtraction."
+  },
+  {
+    "id": "math_045",
+    "question": "What is 3 + 18 × 8?",
+    "type": "numeric",
+    "answer": 147,
+    "note": "Multiplication and division happen before addition and subtraction."
+  },
+  {
+    "id": "math_046",
+    "question": "What is 8/10 + 7/8? Give your answer as a decimal, rounded to 2 decimal places.",
+    "type": "numeric",
+    "answer": 1.68,
+    "note": "Convert fractions to a common denominator before adding or subtracting."
+  },
+  {
+    "id": "math_047",
+    "question": "What is 2/4 - 1/2? Give your answer as a decimal, rounded to 2 decimal places.",
+    "type": "numeric",
+    "answer": 0,
+    "note": "Convert fractions to a common denominator before adding or subtracting."
+  },
+  {
+    "id": "math_048",
+    "question": "What is 5/6 + 4/6? Give your answer as a decimal, rounded to 2 decimal places.",
+    "type": "numeric",
+    "answer": 1.5,
+    "note": "Convert fractions to a common denominator before adding or subtracting."
+  },
+  {
+    "id": "math_049",
+    "question": "What is 4/8 + 1/4? Give your answer as a decimal, rounded to 2 decimal places.",
+    "type": "numeric",
+    "answer": 0.75,
+    "note": "Convert fractions to a common denominator before adding or subtracting."
+  },
+  {
+    "id": "math_050",
+    "question": "What is 1/2 + 1/6? Give your answer as a decimal, rounded to 2 decimal places.",
+    "type": "numeric",
+    "answer": 0.67,
+    "note": "Convert fractions to a common denominator before adding or subtracting."
+  },
+  {
+    "id": "math_051",
+    "question": "What is 1/6 + 1/3? Give your answer as a decimal, rounded to 2 decimal places.",
+    "type": "numeric",
+    "answer": 0.5,
+    "note": "Convert fractions to a common denominator before adding or subtracting."
+  },
+  {
+    "id": "math_052",
+    "question": "What is 6/8 - 2/4? Give your answer as a decimal, rounded to 2 decimal places.",
+    "type": "numeric",
+    "answer": 0.25,
+    "note": "Convert fractions to a common denominator before adding or subtracting."
+  },
+  {
+    "id": "math_053",
+    "question": "What is 2/4 + 5/8? Give your answer as a decimal, rounded to 2 decimal places.",
+    "type": "numeric",
+    "answer": 1.13,
+    "note": "Convert fractions to a common denominator before adding or subtracting."
+  },
+  {
+    "id": "math_054",
+    "question": "What is 1/2 - 1/2? Give your answer as a decimal, rounded to 2 decimal places.",
+    "type": "numeric",
+    "answer": 0,
+    "note": "Convert fractions to a common denominator before adding or subtracting."
+  },
+  {
+    "id": "math_055",
+    "question": "What is 2/3 + 2/6? Give your answer as a decimal, rounded to 2 decimal places.",
+    "type": "numeric",
+    "answer": 1,
+    "note": "Convert fractions to a common denominator before adding or subtracting."
+  },
+  {
+    "id": "math_056",
+    "question": "What is 1/3 - 2/8? Give your answer as a decimal, rounded to 2 decimal places.",
+    "type": "numeric",
+    "answer": 0.08,
+    "note": "Convert fractions to a common denominator before adding or subtracting."
+  },
+  {
+    "id": "math_057",
+    "question": "What is 4/8 - 2/10? Give your answer as a decimal, rounded to 2 decimal places.",
+    "type": "numeric",
+    "answer": 0.3,
+    "note": "Convert fractions to a common denominator before adding or subtracting."
+  },
+  {
+    "id": "math_058",
+    "question": "What is 1/2 + 3/5? Give your answer as a decimal, rounded to 2 decimal places.",
+    "type": "numeric",
+    "answer": 1.1,
+    "note": "Convert fractions to a common denominator before adding or subtracting."
+  },
+  {
+    "id": "math_059",
+    "question": "What is 4/6 + 1/10? Give your answer as a decimal, rounded to 2 decimal places.",
+    "type": "numeric",
+    "answer": 0.77,
+    "note": "Convert fractions to a common denominator before adding or subtracting."
+  },
+  {
+    "id": "math_060",
+    "question": "What is 2/5 - 1/4? Give your answer as a decimal, rounded to 2 decimal places.",
+    "type": "numeric",
+    "answer": 0.15,
+    "note": "Convert fractions to a common denominator before adding or subtracting."
+  },
+  {
+    "id": "math_061",
+    "question": "What is 1/3 + 3/6? Give your answer as a decimal, rounded to 2 decimal places.",
+    "type": "numeric",
+    "answer": 0.83,
+    "note": "Convert fractions to a common denominator before adding or subtracting."
+  },
+  {
+    "id": "math_062",
+    "question": "What is 2/5 - 1/2? Give your answer as a decimal, rounded to 2 decimal places.",
+    "type": "numeric",
+    "answer": -0.1,
+    "note": "Convert fractions to a common denominator before adding or subtracting."
+  },
+  {
+    "id": "math_063",
+    "question": "What is 1/8 - 8/10? Give your answer as a decimal, rounded to 2 decimal places.",
+    "type": "numeric",
+    "answer": -0.67,
+    "note": "Convert fractions to a common denominator before adding or subtracting."
+  },
+  {
+    "id": "math_064",
+    "question": "What is 2/6 - 1/2? Give your answer as a decimal, rounded to 2 decimal places.",
+    "type": "numeric",
+    "answer": -0.17,
+    "note": "Convert fractions to a common denominator before adding or subtracting."
+  },
+  {
+    "id": "math_065",
+    "question": "What is 3/10 - 3/6? Give your answer as a decimal, rounded to 2 decimal places.",
+    "type": "numeric",
+    "answer": -0.2,
+    "note": "Convert fractions to a common denominator before adding or subtracting."
+  },
+  {
+    "id": "math_066",
+    "question": "What is 5/8 - 1/2? Give your answer as a decimal, rounded to 2 decimal places.",
+    "type": "numeric",
+    "answer": 0.13,
+    "note": "Convert fractions to a common denominator before adding or subtracting."
+  },
+  {
+    "id": "math_067",
+    "question": "What is 1/2 - 1/6? Give your answer as a decimal, rounded to 2 decimal places.",
+    "type": "numeric",
+    "answer": 0.33,
+    "note": "Convert fractions to a common denominator before adding or subtracting."
+  },
+  {
+    "id": "math_068",
+    "question": "What is 2/3 - 3/5? Give your answer as a decimal, rounded to 2 decimal places.",
+    "type": "numeric",
+    "answer": 0.07,
+    "note": "Convert fractions to a common denominator before adding or subtracting."
+  },
+  {
+    "id": "math_069",
+    "question": "What is 1/3 - 3/6? Give your answer as a decimal, rounded to 2 decimal places.",
+    "type": "numeric",
+    "answer": -0.17,
+    "note": "Convert fractions to a common denominator before adding or subtracting."
+  },
+  {
+    "id": "math_070",
+    "question": "What is 6/8 + 9/10? Give your answer as a decimal, rounded to 2 decimal places.",
+    "type": "numeric",
+    "answer": 1.65,
+    "note": "Convert fractions to a common denominator before adding or subtracting."
+  },
+  {
+    "id": "math_071",
+    "question": "What is 2/10 - 2/10? Give your answer as a decimal, rounded to 2 decimal places.",
+    "type": "numeric",
+    "answer": 0,
+    "note": "Convert fractions to a common denominator before adding or subtracting."
+  },
+  {
+    "id": "math_072",
+    "question": "What is 1/4 - 1/2? Give your answer as a decimal, rounded to 2 decimal places.",
+    "type": "numeric",
+    "answer": -0.25,
+    "note": "Convert fractions to a common denominator before adding or subtracting."
+  },
+  {
+    "id": "math_073",
+    "question": "What is 3/10 + 1/4? Give your answer as a decimal, rounded to 2 decimal places.",
+    "type": "numeric",
+    "answer": 0.55,
+    "note": "Convert fractions to a common denominator before adding or subtracting."
+  },
+  {
+    "id": "math_074",
+    "question": "What is 1/4 - 1/4? Give your answer as a decimal, rounded to 2 decimal places.",
+    "type": "numeric",
+    "answer": 0,
+    "note": "Convert fractions to a common denominator before adding or subtracting."
+  },
+  {
+    "id": "math_075",
+    "question": "What is 7/8 + 1/3? Give your answer as a decimal, rounded to 2 decimal places.",
+    "type": "numeric",
+    "answer": 1.21,
+    "note": "Convert fractions to a common denominator before adding or subtracting."
+  },
+  {
+    "id": "math_076",
+    "question": "What is 2/3 - 1/3? Give your answer as a decimal, rounded to 2 decimal places.",
+    "type": "numeric",
+    "answer": 0.33,
+    "note": "Convert fractions to a common denominator before adding or subtracting."
+  },
+  {
+    "id": "math_077",
+    "question": "What is 1/3 + 6/10? Give your answer as a decimal, rounded to 2 decimal places.",
+    "type": "numeric",
+    "answer": 0.93,
+    "note": "Convert fractions to a common denominator before adding or subtracting."
+  },
+  {
+    "id": "math_078",
+    "question": "What is 5/6 + 2/3? Give your answer as a decimal, rounded to 2 decimal places.",
+    "type": "numeric",
+    "answer": 1.5,
+    "note": "Convert fractions to a common denominator before adding or subtracting."
+  },
+  {
+    "id": "math_079",
+    "question": "What is 5/8 + 1/2? Give your answer as a decimal, rounded to 2 decimal places.",
+    "type": "numeric",
+    "answer": 1.13,
+    "note": "Convert fractions to a common denominator before adding or subtracting."
+  },
+  {
+    "id": "math_080",
+    "question": "What is 2/3 - 1/10? Give your answer as a decimal, rounded to 2 decimal places.",
+    "type": "numeric",
+    "answer": 0.57,
+    "note": "Convert fractions to a common denominator before adding or subtracting."
+  },
+  {
+    "id": "math_081",
+    "question": "What is 20% of 270?",
+    "type": "numeric",
+    "answer": 54,
+    "note": "To find a percentage of a number, multiply by the percent written as a decimal."
+  },
+  {
+    "id": "math_082",
+    "question": "64 is what percent of 160?",
+    "type": "numeric",
+    "answer": 40,
+    "note": "To find a percentage of a number, multiply by the percent written as a decimal."
+  },
+  {
+    "id": "math_083",
+    "question": "A $200 jacket is on sale for 20% off. What is the sale price in dollars?",
+    "type": "numeric",
+    "answer": 160,
+    "note": "To find a percentage of a number, multiply by the percent written as a decimal."
+  },
+  {
+    "id": "math_084",
+    "question": "What is 10% of 380?",
+    "type": "numeric",
+    "answer": 38,
+    "note": "To find a percentage of a number, multiply by the percent written as a decimal."
+  },
+  {
+    "id": "math_085",
+    "question": "30 is what percent of 50?",
+    "type": "numeric",
+    "answer": 60,
+    "note": "To find a percentage of a number, multiply by the percent written as a decimal."
+  },
+  {
+    "id": "math_086",
+    "question": "A $150 jacket is on sale for 30% off. What is the sale price in dollars?",
+    "type": "numeric",
+    "answer": 105,
+    "note": "To find a percentage of a number, multiply by the percent written as a decimal."
+  },
+  {
+    "id": "math_087",
+    "question": "What is 10% of 310?",
+    "type": "numeric",
+    "answer": 31,
+    "note": "To find a percentage of a number, multiply by the percent written as a decimal."
+  },
+  {
+    "id": "math_088",
+    "question": "54 is what percent of 270?",
+    "type": "numeric",
+    "answer": 20,
+    "note": "To find a percentage of a number, multiply by the percent written as a decimal."
+  },
+  {
+    "id": "math_089",
+    "question": "A $350 jacket is on sale for 50% off. What is the sale price in dollars?",
+    "type": "numeric",
+    "answer": 175,
+    "note": "To find a percentage of a number, multiply by the percent written as a decimal."
+  },
+  {
+    "id": "math_090",
+    "question": "What is 40% of 370?",
+    "type": "numeric",
+    "answer": 148,
+    "note": "To find a percentage of a number, multiply by the percent written as a decimal."
+  },
+  {
+    "id": "math_091",
+    "question": "165 is what percent of 220?",
+    "type": "numeric",
+    "answer": 75,
+    "note": "To find a percentage of a number, multiply by the percent written as a decimal."
+  },
+  {
+    "id": "math_092",
+    "question": "A $90 jacket is on sale for 60% off. What is the sale price in dollars?",
+    "type": "numeric",
+    "answer": 36,
+    "note": "To find a percentage of a number, multiply by the percent written as a decimal."
+  },
+  {
+    "id": "math_093",
+    "question": "What is 5% of 150?",
+    "type": "numeric",
+    "answer": 7.5,
+    "note": "To find a percentage of a number, multiply by the percent written as a decimal."
+  },
+  {
+    "id": "math_094",
+    "question": "36 is what percent of 180?",
+    "type": "numeric",
+    "answer": 20,
+    "note": "To find a percentage of a number, multiply by the percent written as a decimal."
+  },
+  {
+    "id": "math_095",
+    "question": "A $320 jacket is on sale for 5% off. What is the sale price in dollars?",
+    "type": "numeric",
+    "answer": 304,
+    "note": "To find a percentage of a number, multiply by the percent written as a decimal."
+  },
+  {
+    "id": "math_096",
+    "question": "What is 25% of 350?",
+    "type": "numeric",
+    "answer": 87.5,
+    "note": "To find a percentage of a number, multiply by the percent written as a decimal."
+  },
+  {
+    "id": "math_097",
+    "question": "198 is what percent of 330?",
+    "type": "numeric",
+    "answer": 60,
+    "note": "To find a percentage of a number, multiply by the percent written as a decimal."
+  },
+  {
+    "id": "math_098",
+    "question": "A $40 jacket is on sale for 60% off. What is the sale price in dollars?",
+    "type": "numeric",
+    "answer": 16,
+    "note": "To find a percentage of a number, multiply by the percent written as a decimal."
+  },
+  {
+    "id": "math_099",
+    "question": "What is 20% of 390?",
+    "type": "numeric",
+    "answer": 78,
+    "note": "To find a percentage of a number, multiply by the percent written as a decimal."
+  },
+  {
+    "id": "math_100",
+    "question": "70 is what percent of 140?",
+    "type": "numeric",
+    "answer": 50,
+    "note": "To find a percentage of a number, multiply by the percent written as a decimal."
+  },
+  {
+    "id": "math_101",
+    "question": "A $210 jacket is on sale for 60% off. What is the sale price in dollars?",
+    "type": "numeric",
+    "answer": 84,
+    "note": "To find a percentage of a number, multiply by the percent written as a decimal."
+  },
+  {
+    "id": "math_102",
+    "question": "What is 25% of 190?",
+    "type": "numeric",
+    "answer": 47.5,
+    "note": "To find a percentage of a number, multiply by the percent written as a decimal."
+  },
+  {
+    "id": "math_103",
+    "question": "13.5 is what percent of 270?",
+    "type": "numeric",
+    "answer": 5,
+    "note": "To find a percentage of a number, multiply by the percent written as a decimal."
+  },
+  {
+    "id": "math_104",
+    "question": "A $180 jacket is on sale for 50% off. What is the sale price in dollars?",
+    "type": "numeric",
+    "answer": 90,
+    "note": "To find a percentage of a number, multiply by the percent written as a decimal."
+  },
+  {
+    "id": "math_105",
+    "question": "What is 40% of 320?",
+    "type": "numeric",
+    "answer": 128,
+    "note": "To find a percentage of a number, multiply by the percent written as a decimal."
+  },
+  {
+    "id": "math_106",
+    "question": "48 is what percent of 80?",
+    "type": "numeric",
+    "answer": 60,
+    "note": "To find a percentage of a number, multiply by the percent written as a decimal."
+  },
+  {
+    "id": "math_107",
+    "question": "A $250 jacket is on sale for 25% off. What is the sale price in dollars?",
+    "type": "numeric",
+    "answer": 187.5,
+    "note": "To find a percentage of a number, multiply by the percent written as a decimal."
+  },
+  {
+    "id": "math_108",
+    "question": "What is 60% of 140?",
+    "type": "numeric",
+    "answer": 84,
+    "note": "To find a percentage of a number, multiply by the percent written as a decimal."
+  },
+  {
+    "id": "math_109",
+    "question": "19 is what percent of 380?",
+    "type": "numeric",
+    "answer": 5,
+    "note": "To find a percentage of a number, multiply by the percent written as a decimal."
+  },
+  {
+    "id": "math_110",
+    "question": "A $340 jacket is on sale for 75% off. What is the sale price in dollars?",
+    "type": "numeric",
+    "answer": 85,
+    "note": "To find a percentage of a number, multiply by the percent written as a decimal."
+  },
+  {
+    "id": "math_111",
+    "question": "What is the area of a rectangle with length 15 and width 4?",
+    "type": "numeric",
+    "answer": 60,
+    "note": "Area of a rectangle = length × width."
+  },
+  {
+    "id": "math_112",
+    "question": "What is the perimeter of a rectangle with length 9 and width 8?",
+    "type": "numeric",
+    "answer": 34,
+    "note": "Perimeter of a rectangle = 2 × (length + width)."
+  },
+  {
+    "id": "math_113",
+    "question": "What is the area of a triangle with base 19 and height 19?",
+    "type": "numeric",
+    "answer": 180.5,
+    "note": "Area of a triangle = 1/2 × base × height."
+  },
+  {
+    "id": "math_114",
+    "question": "What is the volume of a cube with side length 15?",
+    "type": "numeric",
+    "answer": 3375,
+    "note": "Volume of a cube = side³."
+  },
+  {
+    "id": "math_115",
+    "question": "What is the area of a circle with radius 9? Use 3.14 for pi and round to the nearest whole number.",
+    "type": "numeric",
+    "answer": 254,
+    "note": "Area of a circle = π × radius²."
+  },
+  {
+    "id": "math_116",
+    "question": "What is the area of a rectangle with length 9 and width 7?",
+    "type": "numeric",
+    "answer": 63,
+    "note": "Area of a rectangle = length × width."
+  },
+  {
+    "id": "math_117",
+    "question": "What is the perimeter of a rectangle with length 9 and width 4?",
+    "type": "numeric",
+    "answer": 26,
+    "note": "Perimeter of a rectangle = 2 × (length + width)."
+  },
+  {
+    "id": "math_118",
+    "question": "What is the area of a triangle with base 14 and height 16?",
+    "type": "numeric",
+    "answer": 112,
+    "note": "Area of a triangle = 1/2 × base × height."
+  },
+  {
+    "id": "math_119",
+    "question": "What is the area of a circle with radius 6? Use 3.14 for pi and round to the nearest whole number.",
+    "type": "numeric",
+    "answer": 113,
+    "note": "Area of a circle = π × radius²."
+  },
+  {
+    "id": "math_120",
+    "question": "What is the area of a rectangle with length 3 and width 19?",
+    "type": "numeric",
+    "answer": 57,
+    "note": "Area of a rectangle = length × width."
+  },
+  {
+    "id": "math_121",
+    "question": "What is the perimeter of a rectangle with length 17 and width 8?",
+    "type": "numeric",
+    "answer": 50,
+    "note": "Perimeter of a rectangle = 2 × (length + width)."
+  },
+  {
+    "id": "math_122",
+    "question": "What is the area of a triangle with base 20 and height 18?",
+    "type": "numeric",
+    "answer": 180,
+    "note": "Area of a triangle = 1/2 × base × height."
+  },
+  {
+    "id": "math_123",
+    "question": "What is the volume of a cube with side length 9?",
+    "type": "numeric",
+    "answer": 729,
+    "note": "Volume of a cube = side³."
+  },
+  {
+    "id": "math_124",
+    "question": "What is the area of a rectangle with length 12 and width 6?",
+    "type": "numeric",
+    "answer": 72,
+    "note": "Area of a rectangle = length × width."
+  },
+  {
+    "id": "math_125",
+    "question": "What is the perimeter of a rectangle with length 6 and width 20?",
+    "type": "numeric",
+    "answer": 52,
+    "note": "Perimeter of a rectangle = 2 × (length + width)."
+  },
+  {
+    "id": "math_126",
+    "question": "What is the area of a triangle with base 8 and height 10?",
+    "type": "numeric",
+    "answer": 40,
+    "note": "Area of a triangle = 1/2 × base × height."
+  },
+  {
+    "id": "math_127",
+    "question": "What is the volume of a cube with side length 6?",
+    "type": "numeric",
+    "answer": 216,
+    "note": "Volume of a cube = side³."
+  },
+  {
+    "id": "math_128",
+    "question": "What is the area of a circle with radius 12? Use 3.14 for pi and round to the nearest whole number.",
+    "type": "numeric",
+    "answer": 452,
+    "note": "Area of a circle = π × radius²."
+  },
+  {
+    "id": "math_129",
+    "question": "What is the area of a rectangle with length 20 and width 15?",
+    "type": "numeric",
+    "answer": 300,
+    "note": "Area of a rectangle = length × width."
+  },
+  {
+    "id": "math_130",
+    "question": "What is the perimeter of a rectangle with length 14 and width 10?",
+    "type": "numeric",
+    "answer": 48,
+    "note": "Perimeter of a rectangle = 2 × (length + width)."
+  },
+  {
+    "id": "math_131",
+    "question": "What is the area of a triangle with base 12 and height 18?",
+    "type": "numeric",
+    "answer": 108,
+    "note": "Area of a triangle = 1/2 × base × height."
+  },
+  {
+    "id": "math_132",
+    "question": "What is the area of a circle with radius 4? Use 3.14 for pi and round to the nearest whole number.",
+    "type": "numeric",
+    "answer": 50,
+    "note": "Area of a circle = π × radius²."
+  },
+  {
+    "id": "math_133",
+    "question": "What is the area of a rectangle with length 11 and width 4?",
+    "type": "numeric",
+    "answer": 44,
+    "note": "Area of a rectangle = length × width."
+  },
+  {
+    "id": "math_134",
+    "question": "What is the perimeter of a rectangle with length 11 and width 10?",
+    "type": "numeric",
+    "answer": 42,
+    "note": "Perimeter of a rectangle = 2 × (length + width)."
+  },
+  {
+    "id": "math_135",
+    "question": "What is the area of a triangle with base 6 and height 6?",
+    "type": "numeric",
+    "answer": 18,
+    "note": "Area of a triangle = 1/2 × base × height."
+  },
+  {
+    "id": "math_136",
+    "question": "What is the area of a circle with radius 5? Use 3.14 for pi and round to the nearest whole number.",
+    "type": "numeric",
+    "answer": 79,
+    "note": "Area of a circle = π × radius²."
+  },
+  {
+    "id": "math_137",
+    "question": "What is the area of a rectangle with length 7 and width 4?",
+    "type": "numeric",
+    "answer": 28,
+    "note": "Area of a rectangle = length × width."
+  },
+  {
+    "id": "math_138",
+    "question": "What is the perimeter of a rectangle with length 6 and width 18?",
+    "type": "numeric",
+    "answer": 48,
+    "note": "Perimeter of a rectangle = 2 × (length + width)."
+  },
+  {
+    "id": "math_139",
+    "question": "What is the area of a triangle with base 4 and height 7?",
+    "type": "numeric",
+    "answer": 14,
+    "note": "Area of a triangle = 1/2 × base × height."
+  },
+  {
+    "id": "math_140",
+    "question": "Solve for x: 5x + 16 = 56",
+    "type": "numeric",
+    "answer": 8,
+    "note": "Isolate x by undoing operations in reverse order (inverse operations)."
+  },
+  {
+    "id": "math_141",
+    "question": "Solve for x: 4x − 19 = 5",
+    "type": "numeric",
+    "answer": 6,
+    "note": "Isolate x by undoing operations in reverse order (inverse operations)."
+  },
+  {
+    "id": "math_142",
+    "question": "Solve for x: 8(x + 11) = 152",
+    "type": "numeric",
+    "answer": 8,
+    "note": "Isolate x by undoing operations in reverse order (inverse operations)."
+  },
+  {
+    "id": "math_143",
+    "question": "Solve for x: 6x + 18 = 42",
+    "type": "numeric",
+    "answer": 4,
+    "note": "Isolate x by undoing operations in reverse order (inverse operations)."
+  },
+  {
+    "id": "math_144",
+    "question": "Solve for x: 8x − 17 = 31",
+    "type": "numeric",
+    "answer": 6,
+    "note": "Isolate x by undoing operations in reverse order (inverse operations)."
+  },
+  {
+    "id": "math_145",
+    "question": "Solve for x: 3(x + 6) = 0",
+    "type": "numeric",
+    "answer": -6,
+    "note": "Isolate x by undoing operations in reverse order (inverse operations)."
+  },
+  {
+    "id": "math_146",
+    "question": "Solve for x: 9x + 19 = -53",
+    "type": "numeric",
+    "answer": -8,
+    "note": "Isolate x by undoing operations in reverse order (inverse operations)."
+  },
+  {
+    "id": "math_147",
+    "question": "Solve for x: 6x − 1 = -49",
+    "type": "numeric",
+    "answer": -8,
+    "note": "Isolate x by undoing operations in reverse order (inverse operations)."
+  },
+  {
+    "id": "math_148",
+    "question": "Solve for x: 3(x + 14) = 39",
+    "type": "numeric",
+    "answer": -1,
+    "note": "Isolate x by undoing operations in reverse order (inverse operations)."
+  },
+  {
+    "id": "math_149",
+    "question": "Solve for x: 8x + 15 = 87",
+    "type": "numeric",
+    "answer": 9,
+    "note": "Isolate x by undoing operations in reverse order (inverse operations)."
+  },
+  {
+    "id": "math_150",
+    "question": "Solve for x: 3x − 2 = -38",
+    "type": "numeric",
+    "answer": -12,
+    "note": "Isolate x by undoing operations in reverse order (inverse operations)."
+  },
+  {
+    "id": "math_151",
+    "question": "Solve for x: 8(x + 8) = 144",
+    "type": "numeric",
+    "answer": 10,
+    "note": "Isolate x by undoing operations in reverse order (inverse operations)."
+  },
+  {
+    "id": "math_152",
+    "question": "Solve for x: 8x + 12 = 100",
+    "type": "numeric",
+    "answer": 11,
+    "note": "Isolate x by undoing operations in reverse order (inverse operations)."
+  },
+  {
+    "id": "math_153",
+    "question": "Solve for x: 9x − 1 = -37",
+    "type": "numeric",
+    "answer": -4,
+    "note": "Isolate x by undoing operations in reverse order (inverse operations)."
+  },
+  {
+    "id": "math_154",
+    "question": "Solve for x: 8(x + 16) = 200",
+    "type": "numeric",
+    "answer": 9,
+    "note": "Isolate x by undoing operations in reverse order (inverse operations)."
+  },
+  {
+    "id": "math_155",
+    "question": "Solve for x: 6x + 10 = 58",
+    "type": "numeric",
+    "answer": 8,
+    "note": "Isolate x by undoing operations in reverse order (inverse operations)."
+  },
+  {
+    "id": "math_156",
+    "question": "Solve for x: 7x − 14 = 0",
+    "type": "numeric",
+    "answer": 2,
+    "note": "Isolate x by undoing operations in reverse order (inverse operations)."
+  },
+  {
+    "id": "math_157",
+    "question": "Solve for x: 9(x + 16) = 198",
+    "type": "numeric",
+    "answer": 6,
+    "note": "Isolate x by undoing operations in reverse order (inverse operations)."
+  },
+  {
+    "id": "math_158",
+    "question": "Solve for x: 9x + 17 = 80",
+    "type": "numeric",
+    "answer": 7,
+    "note": "Isolate x by undoing operations in reverse order (inverse operations)."
+  },
+  {
+    "id": "math_159",
+    "question": "Solve for x: 7x − 8 = -64",
+    "type": "numeric",
+    "answer": -8,
+    "note": "Isolate x by undoing operations in reverse order (inverse operations)."
+  },
+  {
+    "id": "math_160",
+    "question": "Solve for x: 6(x + 20) = 192",
+    "type": "numeric",
+    "answer": 12,
+    "note": "Isolate x by undoing operations in reverse order (inverse operations)."
+  },
+  {
+    "id": "math_161",
+    "question": "Solve for x: 4x + 19 = -21",
+    "type": "numeric",
+    "answer": -10,
+    "note": "Isolate x by undoing operations in reverse order (inverse operations)."
+  },
+  {
+    "id": "math_162",
+    "question": "Solve for x: 7x − 1 = -29",
+    "type": "numeric",
+    "answer": -4,
+    "note": "Isolate x by undoing operations in reverse order (inverse operations)."
+  },
+  {
+    "id": "math_163",
+    "question": "Solve for x: 8(x + 9) = 16",
+    "type": "numeric",
+    "answer": -7,
+    "note": "Isolate x by undoing operations in reverse order (inverse operations)."
+  },
+  {
+    "id": "math_164",
+    "question": "Solve for x: 6x + 5 = 77",
+    "type": "numeric",
+    "answer": 12,
+    "note": "Isolate x by undoing operations in reverse order (inverse operations)."
+  },
+  {
+    "id": "math_165",
+    "question": "Solve for x: 4x − 10 = -14",
+    "type": "numeric",
+    "answer": -1,
+    "note": "Isolate x by undoing operations in reverse order (inverse operations)."
+  },
+  {
+    "id": "math_166",
+    "question": "Solve for x: 3(x + 9) = 48",
+    "type": "numeric",
+    "answer": 7,
+    "note": "Isolate x by undoing operations in reverse order (inverse operations)."
+  },
+  {
+    "id": "math_167",
+    "question": "Solve for x: 3x + 17 = -4",
+    "type": "numeric",
+    "answer": -7,
+    "note": "Isolate x by undoing operations in reverse order (inverse operations)."
+  },
+  {
+    "id": "math_168",
+    "question": "Solve for x: 6x − 18 = 0",
+    "type": "numeric",
+    "answer": 3,
+    "note": "Isolate x by undoing operations in reverse order (inverse operations)."
+  },
+  {
+    "id": "math_169",
+    "question": "Solve for x: 9(x + 3) = 36",
+    "type": "numeric",
+    "answer": 1,
+    "note": "Isolate x by undoing operations in reverse order (inverse operations)."
+  },
+  {
+    "id": "math_170",
+    "question": "Solve for x: 7x + 16 = -47",
+    "type": "numeric",
+    "answer": -9,
+    "note": "Isolate x by undoing operations in reverse order (inverse operations)."
+  },
+  {
+    "id": "math_171",
+    "question": "Solve for x: 6x − 11 = 25",
+    "type": "numeric",
+    "answer": 6,
+    "note": "Isolate x by undoing operations in reverse order (inverse operations)."
+  },
+  {
+    "id": "math_172",
+    "question": "Solve for x: 6(x + 16) = 108",
+    "type": "numeric",
+    "answer": 2,
+    "note": "Isolate x by undoing operations in reverse order (inverse operations)."
+  },
+  {
+    "id": "math_173",
+    "question": "Solve for x: 6x + 15 = -9",
+    "type": "numeric",
+    "answer": -4,
+    "note": "Isolate x by undoing operations in reverse order (inverse operations)."
+  },
+  {
+    "id": "math_174",
+    "question": "Solve for x: 4x − 6 = -14",
+    "type": "numeric",
+    "answer": -2,
+    "note": "Isolate x by undoing operations in reverse order (inverse operations)."
+  },
+  {
+    "id": "math_175",
+    "question": "Solve for x: 5(x + 6) = 60",
+    "type": "numeric",
+    "answer": 6,
+    "note": "Isolate x by undoing operations in reverse order (inverse operations)."
+  },
+  {
+    "id": "math_176",
+    "question": "Solve for x: 5x + 2 = -33",
+    "type": "numeric",
+    "answer": -7,
+    "note": "Isolate x by undoing operations in reverse order (inverse operations)."
+  },
+  {
+    "id": "math_177",
+    "question": "Solve for x: 2x − 4 = -6",
+    "type": "numeric",
+    "answer": -1,
+    "note": "Isolate x by undoing operations in reverse order (inverse operations)."
+  },
+  {
+    "id": "math_178",
+    "question": "Solve for x: 9(x + 10) = 135",
+    "type": "numeric",
+    "answer": 5,
+    "note": "Isolate x by undoing operations in reverse order (inverse operations)."
+  },
+  {
+    "id": "math_179",
+    "question": "Solve for x: 2x + 16 = 38",
+    "type": "numeric",
+    "answer": 11,
+    "note": "Isolate x by undoing operations in reverse order (inverse operations)."
+  },
+  {
+    "id": "math_180",
+    "question": "What is 8²?",
+    "type": "numeric",
+    "answer": 64,
+    "note": "An exponent tells you how many times to multiply the base by itself."
+  },
+  {
+    "id": "math_181",
+    "question": "What is the square root of 49?",
+    "type": "numeric",
+    "answer": 7,
+    "note": "The square root of a number x is the value that, multiplied by itself, gives x."
+  },
+  {
+    "id": "math_182",
+    "question": "What is 9 to the power of 0?",
+    "type": "numeric",
+    "answer": 1,
+    "note": "Any nonzero number raised to the power of 0 equals 1."
+  },
+  {
+    "id": "math_183",
+    "question": "What is 5³?",
+    "type": "numeric",
+    "answer": 125,
+    "note": "An exponent tells you how many times to multiply the base by itself."
+  },
+  {
+    "id": "math_184",
+    "question": "What is the square root of 196?",
+    "type": "numeric",
+    "answer": 14,
+    "note": "The square root of a number x is the value that, multiplied by itself, gives x."
+  },
+  {
+    "id": "math_185",
+    "question": "What is 5 to the power of 0?",
+    "type": "numeric",
+    "answer": 1,
+    "note": "Any nonzero number raised to the power of 0 equals 1."
+  },
+  {
+    "id": "math_186",
+    "question": "What is 7³?",
+    "type": "numeric",
+    "answer": 343,
+    "note": "An exponent tells you how many times to multiply the base by itself."
+  },
+  {
+    "id": "math_187",
+    "question": "What is the square root of 100?",
+    "type": "numeric",
+    "answer": 10,
+    "note": "The square root of a number x is the value that, multiplied by itself, gives x."
+  },
+  {
+    "id": "math_188",
+    "question": "What is 8 to the power of 0?",
+    "type": "numeric",
+    "answer": 1,
+    "note": "Any nonzero number raised to the power of 0 equals 1."
+  },
+  {
+    "id": "math_189",
+    "question": "What is 7²?",
+    "type": "numeric",
+    "answer": 49,
+    "note": "An exponent tells you how many times to multiply the base by itself."
+  },
+  {
+    "id": "math_190",
+    "question": "What is the square root of 16?",
+    "type": "numeric",
+    "answer": 4,
+    "note": "The square root of a number x is the value that, multiplied by itself, gives x."
+  },
+  {
+    "id": "math_191",
+    "question": "What is 10 to the power of 0?",
+    "type": "numeric",
+    "answer": 1,
+    "note": "Any nonzero number raised to the power of 0 equals 1."
+  },
+  {
+    "id": "math_192",
+    "question": "What is 3³?",
+    "type": "numeric",
+    "answer": 27,
+    "note": "An exponent tells you how many times to multiply the base by itself."
+  },
+  {
+    "id": "math_193",
+    "question": "What is the square root of 64?",
+    "type": "numeric",
+    "answer": 8,
+    "note": "The square root of a number x is the value that, multiplied by itself, gives x."
+  },
+  {
+    "id": "math_194",
+    "question": "What is 9²?",
+    "type": "numeric",
+    "answer": 81,
+    "note": "An exponent tells you how many times to multiply the base by itself."
+  },
+  {
+    "id": "math_195",
+    "question": "What is 3 to the power of 0?",
+    "type": "numeric",
+    "answer": 1,
+    "note": "Any nonzero number raised to the power of 0 equals 1."
+  },
+  {
+    "id": "math_196",
+    "question": "What is 6 to the power of 0?",
+    "type": "numeric",
+    "answer": 1,
+    "note": "Any nonzero number raised to the power of 0 equals 1."
+  },
+  {
+    "id": "math_197",
+    "question": "What is 4³?",
+    "type": "numeric",
+    "answer": 64,
+    "note": "An exponent tells you how many times to multiply the base by itself."
+  },
+  {
+    "id": "math_198",
+    "question": "What is the square root of 4?",
+    "type": "numeric",
+    "answer": 2,
+    "note": "The square root of a number x is the value that, multiplied by itself, gives x."
+  },
+  {
+    "id": "math_199",
+    "question": "What is 7 to the power of 0?",
+    "type": "numeric",
+    "answer": 1,
+    "note": "Any nonzero number raised to the power of 0 equals 1."
+  },
+  {
+    "id": "math_200",
+    "question": "What is 10²?",
+    "type": "numeric",
+    "answer": 100,
+    "note": "An exponent tells you how many times to multiply the base by itself."
+  },
+  {
+    "id": "math_201",
+    "question": "Simplify by combining like terms: 8x + 3x",
+    "type": "symbolic",
+    "answer": "11x",
+    "acceptableAnswers": [
+      "11x"
+    ],
+    "note": "Combine terms with the same variable by adding their coefficients."
+  },
+  {
+    "id": "math_202",
+    "question": "Expand: 9(x + 4)",
+    "type": "symbolic",
+    "answer": "9x + 36",
+    "acceptableAnswers": [
+      "9x + 36",
+      "36 + 9x"
+    ],
+    "note": "Combine terms with the same variable by adding their coefficients."
+  },
+  {
+    "id": "math_203",
+    "question": "Simplify: 7x + 1 + 9x",
+    "type": "symbolic",
+    "answer": "16x + 1",
+    "acceptableAnswers": [
+      "16x + 1",
+      "1 + 16x"
+    ],
+    "note": "Combine terms with the same variable by adding their coefficients."
+  },
+  {
+    "id": "math_204",
+    "question": "Simplify: 14x ÷ 2",
+    "type": "symbolic",
+    "answer": "7x",
+    "acceptableAnswers": [
+      "7x"
+    ],
+    "note": "Combine terms with the same variable by adding their coefficients."
+  },
+  {
+    "id": "math_205",
+    "question": "Simplify by combining like terms: 2x + 7x",
+    "type": "symbolic",
+    "answer": "9x",
+    "acceptableAnswers": [
+      "9x"
+    ],
+    "note": "Combine terms with the same variable by adding their coefficients."
+  },
+  {
+    "id": "math_206",
+    "question": "Expand: 2(x + 4)",
+    "type": "symbolic",
+    "answer": "2x + 8",
+    "acceptableAnswers": [
+      "2x + 8",
+      "8 + 2x"
+    ],
+    "note": "Combine terms with the same variable by adding their coefficients."
+  },
+  {
+    "id": "math_207",
+    "question": "Simplify: 2x + 12 + 5x",
+    "type": "symbolic",
+    "answer": "7x + 12",
+    "acceptableAnswers": [
+      "7x + 12",
+      "12 + 7x"
+    ],
+    "note": "Combine terms with the same variable by adding their coefficients."
+  },
+  {
+    "id": "math_208",
+    "question": "Simplify: 35x ÷ 7",
+    "type": "symbolic",
+    "answer": "5x",
+    "acceptableAnswers": [
+      "5x"
+    ],
+    "note": "Combine terms with the same variable by adding their coefficients."
+  },
+  {
+    "id": "math_209",
+    "question": "Simplify by combining like terms: 8x + 5x",
+    "type": "symbolic",
+    "answer": "13x",
+    "acceptableAnswers": [
+      "13x"
+    ],
+    "note": "Combine terms with the same variable by adding their coefficients."
+  },
+  {
+    "id": "math_210",
+    "question": "Expand: 7(x + 2)",
+    "type": "symbolic",
+    "answer": "7x + 14",
+    "acceptableAnswers": [
+      "7x + 14",
+      "14 + 7x"
+    ],
+    "note": "Combine terms with the same variable by adding their coefficients."
+  },
+  {
+    "id": "math_211",
+    "question": "Simplify: 9x + 2 + 3x",
+    "type": "symbolic",
+    "answer": "12x + 2",
+    "acceptableAnswers": [
+      "12x + 2",
+      "2 + 12x"
+    ],
+    "note": "Combine terms with the same variable by adding their coefficients."
+  },
+  {
+    "id": "math_212",
+    "question": "Simplify: 12x ÷ 2",
+    "type": "symbolic",
+    "answer": "6x",
+    "acceptableAnswers": [
+      "6x"
+    ],
+    "note": "Combine terms with the same variable by adding their coefficients."
+  },
+  {
+    "id": "math_213",
+    "question": "Simplify by combining like terms: 3x + 8x",
+    "type": "symbolic",
+    "answer": "11x",
+    "acceptableAnswers": [
+      "11x"
+    ],
+    "note": "Combine terms with the same variable by adding their coefficients."
+  },
+  {
+    "id": "math_214",
+    "question": "Expand: 6(x + 12)",
+    "type": "symbolic",
+    "answer": "6x + 72",
+    "acceptableAnswers": [
+      "6x + 72",
+      "72 + 6x"
+    ],
+    "note": "Combine terms with the same variable by adding their coefficients."
+  },
+  {
+    "id": "math_215",
+    "question": "Simplify: 9x + 9 + 3x",
+    "type": "symbolic",
+    "answer": "12x + 9",
+    "acceptableAnswers": [
+      "12x + 9",
+      "9 + 12x"
+    ],
+    "note": "Combine terms with the same variable by adding their coefficients."
+  },
+  {
+    "id": "math_216",
+    "question": "Simplify: 20x ÷ 4",
+    "type": "symbolic",
+    "answer": "5x",
+    "acceptableAnswers": [
+      "5x"
+    ],
+    "note": "Combine terms with the same variable by adding their coefficients."
+  },
+  {
+    "id": "math_217",
+    "question": "Simplify by combining like terms: 7x + 5x",
+    "type": "symbolic",
+    "answer": "12x",
+    "acceptableAnswers": [
+      "12x"
+    ],
+    "note": "Combine terms with the same variable by adding their coefficients."
+  },
+  {
+    "id": "math_218",
+    "question": "Expand: 8(x + 8)",
+    "type": "symbolic",
+    "answer": "8x + 64",
+    "acceptableAnswers": [
+      "8x + 64",
+      "64 + 8x"
+    ],
+    "note": "Combine terms with the same variable by adding their coefficients."
+  },
+  {
+    "id": "math_219",
+    "question": "Simplify: 5x + 6 + 9x",
+    "type": "symbolic",
+    "answer": "14x + 6",
+    "acceptableAnswers": [
+      "14x + 6",
+      "6 + 14x"
+    ],
+    "note": "Combine terms with the same variable by adding their coefficients."
+  },
+  {
+    "id": "math_220",
+    "question": "Simplify: 10x ÷ 2",
+    "type": "symbolic",
+    "answer": "5x",
+    "acceptableAnswers": [
+      "5x"
+    ],
+    "note": "Combine terms with the same variable by adding their coefficients."
+  },
+  {
+    "id": "math_221",
+    "question": "Simplify by combining like terms: 9x + 9x",
+    "type": "symbolic",
+    "answer": "18x",
+    "acceptableAnswers": [
+      "18x"
+    ],
+    "note": "Combine terms with the same variable by adding their coefficients."
+  },
+  {
+    "id": "math_222",
+    "question": "Expand: 9(x + 11)",
+    "type": "symbolic",
+    "answer": "9x + 99",
+    "acceptableAnswers": [
+      "9x + 99",
+      "99 + 9x"
+    ],
+    "note": "Combine terms with the same variable by adding their coefficients."
+  },
+  {
+    "id": "math_223",
+    "question": "Simplify: 3x + 12 + 4x",
+    "type": "symbolic",
+    "answer": "7x + 12",
+    "acceptableAnswers": [
+      "7x + 12",
+      "12 + 7x"
+    ],
+    "note": "Combine terms with the same variable by adding their coefficients."
+  },
+  {
+    "id": "math_224",
+    "question": "Simplify: 12x ÷ 3",
+    "type": "symbolic",
+    "answer": "4x",
+    "acceptableAnswers": [
+      "4x"
+    ],
+    "note": "Combine terms with the same variable by adding their coefficients."
+  },
+  {
+    "id": "math_225",
+    "question": "Expand: 7(x + 10)",
+    "type": "symbolic",
+    "answer": "7x + 70",
+    "acceptableAnswers": [
+      "7x + 70",
+      "70 + 7x"
+    ],
+    "note": "Combine terms with the same variable by adding their coefficients."
+  },
+  {
+    "id": "math_226",
+    "question": "Simplify: 9x + 1 + 3x",
+    "type": "symbolic",
+    "answer": "12x + 1",
+    "acceptableAnswers": [
+      "12x + 1",
+      "1 + 12x"
+    ],
+    "note": "Combine terms with the same variable by adding their coefficients."
+  },
+  {
+    "id": "math_227",
+    "question": "Simplify by combining like terms: 6x + 8x",
+    "type": "symbolic",
+    "answer": "14x",
+    "acceptableAnswers": [
+      "14x"
+    ],
+    "note": "Combine terms with the same variable by adding their coefficients."
+  },
+  {
+    "id": "math_228",
+    "question": "Expand: 9(x + 3)",
+    "type": "symbolic",
+    "answer": "9x + 27",
+    "acceptableAnswers": [
+      "9x + 27",
+      "27 + 9x"
+    ],
+    "note": "Combine terms with the same variable by adding their coefficients."
+  },
+  {
+    "id": "math_229",
+    "question": "Simplify: 2x + 5 + 6x",
+    "type": "symbolic",
+    "answer": "8x + 5",
+    "acceptableAnswers": [
+      "8x + 5",
+      "5 + 8x"
+    ],
+    "note": "Combine terms with the same variable by adding their coefficients."
+  },
+  {
+    "id": "math_230",
+    "question": "Simplify: 12x ÷ 6",
+    "type": "symbolic",
+    "answer": "2x",
+    "acceptableAnswers": [
+      "2x"
+    ],
+    "note": "Combine terms with the same variable by adding their coefficients."
+  },
+  {
+    "id": "math_231",
+    "question": "Simplify by combining like terms: 2x + 4x",
+    "type": "symbolic",
+    "answer": "6x",
+    "acceptableAnswers": [
+      "6x"
+    ],
+    "note": "Combine terms with the same variable by adding their coefficients."
+  },
+  {
+    "id": "math_232",
+    "question": "Expand: 8(x + 11)",
+    "type": "symbolic",
+    "answer": "8x + 88",
+    "acceptableAnswers": [
+      "8x + 88",
+      "88 + 8x"
+    ],
+    "note": "Combine terms with the same variable by adding their coefficients."
+  },
+  {
+    "id": "math_233",
+    "question": "Simplify: 6x + 4 + 7x",
+    "type": "symbolic",
+    "answer": "13x + 4",
+    "acceptableAnswers": [
+      "13x + 4",
+      "4 + 13x"
+    ],
+    "note": "Combine terms with the same variable by adding their coefficients."
+  }
+]
