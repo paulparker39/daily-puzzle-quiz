@@ -3,52 +3,88 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>Daily School Quiz</title>
+<title>Says Daily — A Survey Guessing Game</title>
 <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-  <div class="wrap">
-    <header>
-      <h1>🎓 Daily School Quiz</h1>
-      <p class="subtitle">5 questions. One per subject. Every day.</p>
+  <div class="stage">
+    <header class="show-header">
+      <div class="logo">
+        <span class="logo-says">SAYS</span><span class="logo-daily">DAILY</span>
+      </div>
+      <p class="tagline">Guess America's top answers. One board. One shot. Every day.</p>
       <div class="meta-row">
-        <span id="today-date"></span>
+        <span id="today-date" class="date-chip"></span>
         <span class="streak-badge">🔥 <span id="streak-count">0</span> day streak</span>
       </div>
     </header>
 
-    <section id="name-gate" class="card">
+    <section id="name-gate" class="panel">
       <label for="username-input">What's your name?</label>
       <input id="username-input" type="text" maxlength="24" placeholder="Player" />
-      <button id="start-btn">Start Today's Quiz</button>
+      <button id="start-btn" class="btn-primary">Play Today's Board</button>
     </section>
 
-    <form id="quiz-form" class="card hidden"></form>
+    <section id="game" class="panel hidden">
+      <div class="category-card">
+        <div class="category-badge" id="category-badge"></div>
+        <h2 id="prompt-text"></h2>
+      </div>
 
-    <section id="results" class="card hidden">
-      <h2>Results</h2>
-      <div id="breakdown"></div>
+      <div class="scoreboard">
+        <div class="score-block">
+          <div class="score-label">Score</div>
+          <div class="score-value"><span id="score-value">0</span><span class="score-max">/<span id="score-max">100</span></span></div>
+        </div>
+        <div class="strikes-block">
+          <div class="score-label">Strikes</div>
+          <div class="strikes" id="strikes">
+            <span class="strike" data-idx="0">✕</span>
+            <span class="strike" data-idx="1">✕</span>
+            <span class="strike" data-idx="2">✕</span>
+          </div>
+        </div>
+      </div>
+
+      <div id="board-grid" class="board-grid"></div>
+
+      <form id="guess-form" class="guess-form">
+        <input id="guess-input" type="text" autocomplete="off" placeholder="Type your answer..." />
+        <button type="submit" class="btn-buzz">Guess</button>
+      </form>
+      <div id="feedback" class="feedback"></div>
+    </section>
+
+    <section id="results" class="panel hidden">
+      <h2 id="results-title">Round Over!</h2>
+      <div class="final-score">
+        <span id="final-score">0</span><span class="score-max">/<span id="final-max">100</span></span>
+      </div>
+      <div id="final-board" class="board-grid"></div>
       <h3>Share your results</h3>
-      <textarea id="share-text" readonly rows="10"></textarea>
+      <textarea id="share-text" readonly rows="9"></textarea>
       <div class="share-actions">
-        <button id="copy-btn">Copy to Clipboard</button>
+        <button id="copy-btn" class="btn-primary">Copy to Clipboard</button>
         <span id="copy-confirm" class="hidden">Copied!</span>
       </div>
     </section>
 
-    <section id="already-played" class="card hidden">
+    <section id="already-played" class="panel hidden">
       <h2>You already played today ✅</h2>
-      <p>Come back tomorrow for a new set of questions.</p>
-      <div id="already-breakdown"></div>
-      <textarea id="already-share-text" readonly rows="10"></textarea>
+      <p>Come back tomorrow for a new board.</p>
+      <div class="final-score">
+        <span id="already-final-score">0</span><span class="score-max">/<span id="already-final-max">100</span></span>
+      </div>
+      <div id="already-final-board" class="board-grid"></div>
+      <textarea id="already-share-text" readonly rows="9"></textarea>
       <div class="share-actions">
-        <button id="already-copy-btn">Copy to Clipboard</button>
+        <button id="already-copy-btn" class="btn-primary">Copy to Clipboard</button>
         <span id="already-copy-confirm" class="hidden">Copied!</span>
       </div>
     </section>
 
     <footer>
-      <p>Question bank stored in <code>/questions/*.json</code> — scoring logic in <code>scoring.js</code>.</p>
+      <p>Inspired by the survey-board game format popularized by TV game shows. Boards stored in <code>/questions/boards.json</code>.</p>
     </footer>
   </div>
 

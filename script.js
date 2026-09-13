@@ -1,23 +1,17 @@
 /**
- * Daily School Quiz — script.js
- * Loads the daily 5 questions, renders the form, scores answers client-side
- * via scoring.js, tracks streaks in localStorage, and builds a shareable
- * text summary.
+ * Says Daily — script.js
+ * Loads today's board, runs the guess/strike game loop, tracks streaks,
+ * and builds a shareable text summary.
  */
 
-const SUBJECTS = [
-  { key: 'math', label: 'Math', icon: '➗', file: 'questions/math.json' },
-  { key: 'geography', label: 'Geography', icon: '🌍', file: 'questions/geography.json' },
-  { key: 'history', label: 'History', icon: '📜', file: 'questions/history.json' },
-  { key: 'science', label: 'Science', icon: '🔬', file: 'questions/science.json' },
-  { key: 'language_arts', label: 'Language Arts', icon: '✍️', file: 'questions/language_arts.json' },
-];
+const MAX_STRIKES = 3;
+const BOARD_FILE = 'questions/boards.json';
 
 const LS_KEYS = {
-  username: 'dsq_username',
-  lastPlayed: 'dsq_last_played',
-  streak: 'dsq_streak',
-  resultPrefix: 'dsq_result_',
+  username: 'sd_username',
+  lastPlayed: 'sd_last_played',
+  streak: 'sd_streak',
+  resultPrefix: 'sd_result_',
 };
 
 function todayString() {
@@ -36,7 +30,6 @@ function dateDiffInDays(a, b) {
   return Math.round((db - da) / (1000 * 60 * 60 * 24));
 }
 
-// Deterministic string hash so every visitor gets the same daily question.
 function hashString(str) {
   let h = 5381;
   for (let i = 0; i < str.length; i++) {
@@ -45,34 +38,15 @@ function hashString(str) {
   return Math.abs(h);
 }
 
-function pickDailyQuestion(bank, subjectKey, dateStr) {
-  const h = hashString(dateStr + ':' + subjectKey);
-  return bank[h % bank.length];
+function pickDailyBoard(boards, dateStr) {
+  const h = hashString(dateStr + ':board');
+  return boards[h % boards.length];
 }
 
-function scoreNote(score) {
-  if (score >= 90) return 'Excellent!';
-  if (score >= 70) return 'Great job';
-  if (score >= 50) return 'Not bad';
-  if (score >= 25) return 'Needs review';
-  return 'Keep studying';
-}
-
-function scoreClass(score) {
-  if (score >= 70) return 'score-good';
-  if (score >= 40) return 'score-mid';
-  return 'score-bad';
-}
-
-async function loadQuestionBanks() {
-  const banks = {};
-  await Promise.all(
-    SUBJECTS.map(async (s) => {
-      const res = await fetch(s.file);
-      banks[s.key] = await res.json();
-    })
-  );
-  return banks;
+function escapeHtml(str) {
+  const div = document.createElement('div');
+  div.textContent = str;
+  return div.innerHTML;
 }
 
 function updateStreakDisplay() {
@@ -95,83 +69,53 @@ function registerPlay() {
   return streak;
 }
 
-function buildShareText(username, date, streak, results, total) {
+function renderTiles(container, board, revealedRanks, missedRanks) {
+  container.innerHTML = '';
+  const sorted = [...board.answers].sort((a, b) => a.rank - b.rank);
+  sorted.forEach((ans) => {
+    const tile = document.createElement('div');
+    const isRevealed = revealedRanks.has(ans.rank);
+    const isMissed = missedRanks.has(ans.rank);
+    tile.className = 'tile' + (isRevealed ? ' revealed' : '') + (isMissed ? ' missed' : '');
+    if (isRevealed || isMissed) {
+      tile.innerHTML = `
+        <span class="tile-text">${escapeHtml(ans.text)}</span>
+        <span class="tile-points">${ans.points}</span>
+      `;
+    } else {
+      tile.innerHTML = `<span class="rank-num">#${ans.rank}</span>`;
+    }
+    container.appendChild(tile);
+  });
+}
+
+function buildShareText(username, date, streak, board, score, maxScore, revealedCount, strikeCount) {
   const lines = [];
-  lines.push(`Daily School Quiz — ${date}`);
-  lines.push(`${username}'s Score: ${total}/500 🎓`);
+  lines.push(`Says Daily — ${date}`);
+  lines.push(`${username}'s Score: ${score}/${maxScore} 🎤`);
   lines.push('');
-  for (const r of results) {
-    lines.push(`${r.label}: ${Math.round(r.finalScore)}/100 ${r.icon} ${scoreNote(r.finalScore)}`);
-  }
+  lines.push(`Category: ${board.category}`);
+  lines.push(`✅ ${revealedCount}/${board.answers.length} answers revealed`);
+  lines.push(`Strikes: ${strikeCount}/${MAX_STRIKES} ❌`);
   lines.push('');
   lines.push(`Streak: ${streak} days 🔥`);
   return lines.join('\n');
 }
 
-function renderBreakdown(container, results) {
-  container.innerHTML = '';
-  const total = results.reduce((sum, r) => sum + r.finalScore, 0);
-  const totalEl = document.createElement('div');
-  totalEl.className = 'total-score';
-  totalEl.textContent = `Total: ${Math.round(total)}/500`;
-  container.appendChild(totalEl);
-
-  for (const r of results) {
-    const item = document.createElement('div');
-    item.className = 'breakdown-item';
-    item.innerHTML = `
-      <div>${r.icon} <strong>${r.label}</strong> — <span class="score ${scoreClass(r.finalScore)}">${Math.round(r.finalScore)}/100</span></div>
-      <div class="your-answer">Your answer: ${escapeHtml(r.userAnswer) || '(blank)'}</div>
-      <div class="correct-answer">Correct answer: ${escapeHtml(String(r.correctAnswer))}</div>
-      <div class="note">Base score: ${r.baseScore} &nbsp;•&nbsp; Typo penalty: −${r.typoPenalty}</div>
-      ${r.factNote ? `<div class="note">💡 ${escapeHtml(r.factNote)}</div>` : ''}
-    `;
-    container.appendChild(item);
-  }
-  return Math.round(total);
-}
-
-function escapeHtml(str) {
-  const div = document.createElement('div');
-  div.textContent = str;
-  return div.innerHTML;
-}
-
-function renderQuizForm(form, dailyQuestions) {
-  form.innerHTML = '';
-  SUBJECTS.forEach((s) => {
-    const q = dailyQuestions[s.key];
-    const block = document.createElement('div');
-    block.className = 'question-block';
-    block.innerHTML = `
-      <div class="q-tag">${s.icon} ${s.label}</div>
-      <p class="q-text">${escapeHtml(q.question)}</p>
-      <input type="text" name="${s.key}" autocomplete="off" placeholder="Your answer" />
-    `;
-    form.appendChild(block);
+function revealAllRemaining(board, revealedRanks, missedRanks) {
+  board.answers.forEach((ans) => {
+    if (!revealedRanks.has(ans.rank)) missedRanks.add(ans.rank);
   });
-  const submitBtn = document.createElement('button');
-  submitBtn.type = 'submit';
-  submitBtn.textContent = 'Submit Answers';
-  form.appendChild(submitBtn);
 }
 
-function scoreAllAnswers(dailyQuestions, answers) {
-  return SUBJECTS.map((s) => {
-    const q = dailyQuestions[s.key];
-    const userAnswer = answers[s.key] || '';
-    const { baseScore, typoPenalty, finalScore } = QuizScoring.scoreQuestion(s.key, q, userAnswer);
-    return {
-      key: s.key,
-      label: s.label,
-      icon: s.icon,
-      userAnswer,
-      correctAnswer: q.answer,
-      factNote: q.note,
-      baseScore,
-      typoPenalty,
-      finalScore,
-    };
+async function loadBoards() {
+  const res = await fetch(BOARD_FILE);
+  return res.json();
+}
+
+function renderStrikes(strikeCount) {
+  document.querySelectorAll('.strike').forEach((el, idx) => {
+    el.classList.toggle('active', idx < strikeCount);
   });
 }
 
@@ -182,7 +126,7 @@ async function main() {
   const today = todayString();
   const storedResult = localStorage.getItem(LS_KEYS.resultPrefix + today);
   const nameGate = document.getElementById('name-gate');
-  const quizForm = document.getElementById('quiz-form');
+  const gameSection = document.getElementById('game');
   const resultsSection = document.getElementById('results');
   const alreadySection = document.getElementById('already-played');
 
@@ -192,11 +136,15 @@ async function main() {
 
   if (storedResult) {
     nameGate.classList.add('hidden');
-    quizForm.classList.add('hidden');
+    gameSection.classList.add('hidden');
     resultsSection.classList.add('hidden');
     alreadySection.classList.remove('hidden');
     const data = JSON.parse(storedResult);
-    renderBreakdown(document.getElementById('already-breakdown'), data.results);
+    const revealedRanks = new Set(data.revealedRanks);
+    const missedRanks = new Set(data.board.answers.map((a) => a.rank).filter((r) => !revealedRanks.has(r)));
+    renderTiles(document.getElementById('already-final-board'), data.board, revealedRanks, missedRanks);
+    document.getElementById('already-final-score').textContent = data.score;
+    document.getElementById('already-final-max').textContent = data.maxScore;
     document.getElementById('already-share-text').value = data.shareText;
     document.getElementById('already-copy-btn').addEventListener('click', () => {
       navigator.clipboard.writeText(data.shareText);
@@ -207,48 +155,93 @@ async function main() {
     return;
   }
 
-  const banks = await loadQuestionBanks();
-  const dailyQuestions = {};
-  SUBJECTS.forEach((s) => {
-    dailyQuestions[s.key] = pickDailyQuestion(banks[s.key], s.key, today);
-  });
+  const boards = await loadBoards();
+  const board = pickDailyBoard(boards, today);
+  const maxScore = GameEngine.boardMaxPoints(board);
 
   document.getElementById('start-btn').addEventListener('click', () => {
     const username = usernameInput.value.trim() || 'Player';
     localStorage.setItem(LS_KEYS.username, username);
     nameGate.classList.add('hidden');
-    quizForm.classList.remove('hidden');
-    renderQuizForm(quizForm, dailyQuestions);
-  });
+    gameSection.classList.remove('hidden');
 
-  quizForm.addEventListener('submit', (e) => {
-    e.preventDefault();
-    const formData = new FormData(quizForm);
-    const answers = {};
-    SUBJECTS.forEach((s) => { answers[s.key] = (formData.get(s.key) || '').toString(); });
+    document.getElementById('category-badge').textContent = board.category;
+    document.getElementById('prompt-text').textContent = board.prompt;
+    document.getElementById('score-max').textContent = maxScore;
 
-    const results = scoreAllAnswers(dailyQuestions, answers);
-    const streak = registerPlay();
-    updateStreakDisplay();
+    const revealedRanks = new Set();
+    const missedRanks = new Set();
+    let strikeCount = 0;
+    let score = 0;
 
-    quizForm.classList.add('hidden');
-    resultsSection.classList.remove('hidden');
-    const total = renderBreakdown(document.getElementById('breakdown'), results);
+    const boardGrid = document.getElementById('board-grid');
+    const guessForm = document.getElementById('guess-form');
+    const guessInput = document.getElementById('guess-input');
+    const feedback = document.getElementById('feedback');
 
-    const username = localStorage.getItem(LS_KEYS.username) || 'Player';
-    const shareText = buildShareText(username, displayDate(), streak, results, total);
-    document.getElementById('share-text').value = shareText;
+    renderTiles(boardGrid, board, revealedRanks, missedRanks);
+    renderStrikes(strikeCount);
 
-    localStorage.setItem(
-      LS_KEYS.resultPrefix + today,
-      JSON.stringify({ results, shareText })
-    );
+    function endRound() {
+      revealAllRemaining(board, revealedRanks, missedRanks);
+      renderTiles(boardGrid, board, revealedRanks, missedRanks);
+      const streak = registerPlay();
+      updateStreakDisplay();
 
-    document.getElementById('copy-btn').addEventListener('click', () => {
-      navigator.clipboard.writeText(shareText);
-      const c = document.getElementById('copy-confirm');
-      c.classList.remove('hidden');
-      setTimeout(() => c.classList.add('hidden'), 1500);
+      gameSection.classList.add('hidden');
+      resultsSection.classList.remove('hidden');
+      document.getElementById('final-score').textContent = score;
+      document.getElementById('final-max').textContent = maxScore;
+      renderTiles(document.getElementById('final-board'), board, revealedRanks, missedRanks);
+
+      const username2 = localStorage.getItem(LS_KEYS.username) || 'Player';
+      const shareText = buildShareText(username2, displayDate(), streak, board, score, maxScore, revealedRanks.size, strikeCount);
+      document.getElementById('share-text').value = shareText;
+
+      localStorage.setItem(
+        LS_KEYS.resultPrefix + today,
+        JSON.stringify({ board, revealedRanks: [...revealedRanks], score, maxScore, shareText })
+      );
+
+      document.getElementById('copy-btn').addEventListener('click', () => {
+        navigator.clipboard.writeText(shareText);
+        const c = document.getElementById('copy-confirm');
+        c.classList.remove('hidden');
+        setTimeout(() => c.classList.add('hidden'), 1500);
+      });
+    }
+
+    guessForm.addEventListener('submit', (e) => {
+      e.preventDefault();
+      const guess = guessInput.value.trim();
+      guessInput.value = '';
+      if (!guess) return;
+
+      const { result, answer } = GameEngine.evaluateGuess(guess, board, revealedRanks);
+
+      if (result === 'hit') {
+        revealedRanks.add(answer.rank);
+        score += answer.points;
+        document.getElementById('score-value').textContent = score;
+        feedback.textContent = `✅ ${answer.text} — ${answer.points} points!`;
+        feedback.className = 'feedback hit';
+        renderTiles(boardGrid, board, revealedRanks, missedRanks);
+        if (revealedRanks.size === board.answers.length) {
+          setTimeout(endRound, 700);
+        }
+      } else if (result === 'duplicate') {
+        strikeCount += 1;
+        renderStrikes(strikeCount);
+        feedback.textContent = `⚠️ Already guessed "${answer.text}"!`;
+        feedback.className = 'feedback duplicate';
+        if (strikeCount >= MAX_STRIKES) setTimeout(endRound, 700);
+      } else {
+        strikeCount += 1;
+        renderStrikes(strikeCount);
+        feedback.textContent = `❌ Not on the board!`;
+        feedback.className = 'feedback miss';
+        if (strikeCount >= MAX_STRIKES) setTimeout(endRound, 700);
+      }
     });
   });
 }
